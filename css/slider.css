@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+* {
+	margin:0;
+	padding:0;
+}
+img {
+	border:0px;
+}
+a {
+	text-decoration:none;
+}
+ul, li {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+/*************首页幻灯片****************/
+.slider-focus-pic{ margin:8px 0 0 0;height:500px;width:100%;position:relative;overflow: hidden;}
+.slider-focus-pic ul li{position:absolute;top:0;left:100%;width:100%;height:500px;}
+.slider-focus-pic ul li a {background-position: center top;background-repeat: no-repeat;}
+.slider-focus-pic .pages{width:100%;height:500px;}
+.slider-focus-pic .controler{position:absolute;bottom: 20px;right: 50%;margin-right: -45px}
+.slider-focus-pic .controler b {cursor:pointer;width:14px;height:14px;display:block;overflow:hidden;text-indent:20px;background:url(../images/slider-i.png) no-repeat 0 0; float: left;margin:0 0 0 20px;}
+.slider-focus-pic .controler b.down{background-position:-34px 0;}
+.slider-focus-pic .controler2 a {display:block; width:54px;position:absolute;top:47%;height:54px;}
+.slider-focus-pic .controler2 a.prev {left: 2%;}
+.slider-focus-pic .controler2 a.next {right: 2%;}
+.slider-focus-pic .controler2 a i {display: none; width:54px;height:54px;background: url(../images/arrow-i.png) no-repeat;}
+.slider-focus-pic .controler2 a.prev i {background-position: 0 -108px;}
+.slider-focus-pic .controler2 a:hover.prev i {background-position: 0 0;}
+.slider-focus-pic .controler2 a.next i {background-position: 0 -162px;}
+.slider-focus-pic .controler2 a:hover.next i {background-position:0 -54px;}
