@@ -584,6 +584,10 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul
 }
 .header_search {padding: 15px 0 0 0;float: right;}
 .online_cs {padding-left: 25px;background: url(../images/live_ico.png) no-repeat 0 0px;}
+/**
+.online_cs {padding-left: 25px;background: url(http://wpa.qq.com/pa?p=1:3416792254:4) no-repeat 0 0px;}
+*/
+
 /* --- bread crumb --- */
 .bread_crumb
 {
