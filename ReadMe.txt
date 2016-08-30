@@ -300,6 +300,9 @@ menu is OK.
 
 >>0.2.0 framwork is OK.
 
+>>0.2.1 邮件订阅后台记录到/public/email_list.txt, 年月日时分秒 + 邮件地址。
+
+
 
 
 

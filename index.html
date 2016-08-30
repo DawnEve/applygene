@@ -709,7 +709,7 @@ $('.ser_btn').click(function(){
         <h3 class="box_header">邮件订阅</h3>
        </div> 
        <div class="emial-div clearfix"> 
-        <form id="sub-form" method="post" action="/public/subscribe.html"> 
+        <form id="sub-form" method="post" action="/public/subscribe.php"> 
          <input type="text" name="sub[email]" class="text-cs email" onblur="if(this.value=='')this.value='你的邮箱';" onfocus="if(this.value=='你的邮箱')this.value='';" value="你的邮箱" /> 
          <input type="button" class="btn-cs" value="订阅" id="btn" /> 
         </form> 
@@ -848,6 +848,7 @@ $('.ser_btn').click(function(){
 		//订阅 
 		$('#btn').click(function(){
 			$.post($('#sub-form').attr('action'),$('#sub-form').serialize(),function(o){
+			 //console.log(o);//wjl
 				if(o.status == 1){
 					alert(o.info);
 					window.location.href = window.location.href;
