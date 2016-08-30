@@ -3754,7 +3754,7 @@ h2.title-h2 {font-size: 40px;line-height: 150%;color: #555;font-weight: normal;f
 .home_ser .ser_box i.hot {background: url(../images/hot-i.png) no-repeat;}
 .home_ser .ser_box .title a {background: #424242;height: 55px;width: 100%;text-align: center;line-height: 55px;color: #FFF;display: block;font-size: 16px;font-weight: bold;}
 .home_ser .ser_box .intro {background: #FFF;padding: 20px 15px;/*text-align:justify;text-justify:inter-ideograph;*/}
-.home_ser .ser_box .intro .con {margin: 0 0 5px;height: 130px;overflow: hidden;}
+.home_ser .ser_box .intro .con {margin: 0 0 5px;/*height: 130px;*/overflow: hidden;}
 .home_ser .ser_box .intro a.ser_more {width: 120px;height: 30px;display: block;line-height: 30px;text-align: center;color: #FFF;background: #6EB92B;margin: 0 auto;}
 .home_ser .ser_box .intro a.ser_more:hover {background: #F39800;}
 .home_ser .ser_box .intro2 {background: #FFF;padding: 0 0 15px;text-align:justify;text-justify:inter-ideograph;}

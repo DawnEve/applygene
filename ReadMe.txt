@@ -296,6 +296,10 @@ menu is OK.
 	
 	
 
+>>0.1.9 del Text again. list Service with Pictures.
+
+
+
 	
 		 
 		 
