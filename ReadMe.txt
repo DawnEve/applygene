@@ -298,9 +298,17 @@ menu is OK.
 
 >>0.1.9 del Text again. list Service with Pictures.
 
+>>0.2.0 framwork is OK.
 
 
-	
-		 
-		 
+
+
+
+
+
+
+
+
+
+
 
