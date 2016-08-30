@@ -1,4 +1,6 @@
-<?php include( getcwd() .'/public/'. 'config.php'); ?>
+<?php include( getcwd() .'/public/'. 'config.php'); 
+if(!isset($keyword)){ $keyword='home';}
+?>
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -80,7 +82,7 @@ $('.ser_btn').click(function(){
      <div class="header clearfix"> 
       <div class="menu-main-menu-container"> 
        <ul id="menu-main-menu" class="sf-menu" style="margin-right: 2px;"> 
-        <li class="menu-item current-menu-ancestor"><a href="/">首页</a></li> 
+        <li class="menu-item "><a href="/">首页</a></li> 
 		
 		
 		
