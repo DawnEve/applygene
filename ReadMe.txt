@@ -186,7 +186,115 @@ menu is OK.
 
 >>0.1.7 Telephont is OK.
 
+>>0.1.8 del Text 
+ <div class="content-bg-fff"> 
+     <div class="clearfix theme_page relative home_box_1"> 
+      <div class="div_box"> 
+       <div class="img">
+        <img src="/images/home_1.png" />
+       </div> 
+       <h1 style="padding: 0 0 18px;"><a target="_blank" href="/news/news.html" title="普利莱动态">普利莱动态</a></h1> 
+       <ul class="list-ul blue_a"> 
+        <li><a target="_blank" href="/news/news/3177.html" title="普利莱生物参展第七届全国微生物遗传学学术研讨会">普利莱生物参展第七届全国微生物遗传学学术研讨会</a></li> 
+        <li><a target="_blank" href="/news/news/3171.html" title="普利莱生物获批筹建郑州高通量疾病标志物筛选、验证和数据分析研发公共服务平台">普利莱生物获批筹建郑州高通量疾病标志物筛选、验证和数据分析研发公共服务平台</a></li> 
+        <li><a target="_blank" href="/news/news/3172.html" title="普利莱生物多种样本保存液获第I类医疗器械备案">普利莱生物多种样本保存液获第I类医疗器械备案</a></li> 
+        <li><a target="_blank" href="/news/news/3169.html" title="2016河南“芯”医学高峰论坛举行（生物芯片河南国家工程研究中心成立十五周年）">2016河南“芯”医学高峰论坛举行（生物芯片河南国家工程研究中心成立十五周年）</a></li> 
+        <li><a target="_blank" href="/news/news/3128.html" title="河南普利莱领衔启动国家基因检测技术应用示范中心">河南普利莱领衔启动国家基因检测技术应用示范中心</a></li> 
+       </ul> 
+       <div class="clearfix more-div">
+        <a target="_blank" href="/news/news.html" title="了解更多" class="more-cs">了解更多</a>
+       </div> 
+      </div> 
+      <div class="div_box news"> 
+       <div class="img">
+        <img src="/images/home_2.png" />
+       </div> 
+       <h1 class="clearfix"> <a target="_blank" href="/news/research.html" title="科研动态" class="ie6png select move_1" style="margin-right: 25px;">科研动态</a> <a target="_blank" href="/news/publications.html" title="应用文献" class="ie6png move_2">应用文献</a> </h1> 
+       <div class="hoverC_1"> 
+        <ul class="list-ul green"> 
+         <li><a target="_blank" href="http://www.shbio.cn/support/detail/554.html" title="河南普利莱生物高分文章汇总！">河南普利莱生物高分文章汇总！</a></li> 
+         <li><a target="_blank" href="/news/research/3178.html" title="《Nature Communications》普利莱客户发现米色脂肪血管生成相关的产热机制">《Nature Communications》普利莱客户发现米色脂肪血管生成相关的产热机制</a></li> 
+         <li><a target="_blank" href="/news/research/3176.html" title=" 《Scientific Reports》普利莱Axiom平台助力客户鸡GWAS研究"> 《Scientific Reports》普利莱Axiom平台助力客户鸡GWAS研究</a></li> 
+         <li><a target="_blank" href="/news/research/3175.html" title="《Cancer Cell》普利莱客户肿瘤外泌体研究新成果">《Cancer Cell》普利莱客户肿瘤外泌体研究新成果</a></li> 
+         <li><a target="_blank" href="/news/research/3170.html" title="普利莱生物转录组测序服务助力客户寨卡病毒研究">普利莱生物转录组测序服务助力客户寨卡病毒研究</a></li> 
+        </ul> 
+        <div class="clearfix more-div">
+         <a target="_blank" href="/news/research.html" title="了解更多" class="more-cs">了解更多</a>
+        </div> 
+       </div> 
+       <div class="hoverC_2" style="display: none;"> 
+        <ul class="list-ul green"> 
+         <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22922871" title="Exome sequencing of hepatitis B virus-associated hepatocellular carcinoma.">Exome sequencing of hepatitis B virus-associated hepatocellular carcinoma.</a></li> 
+         <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Exome+sequencing+identifies+somatic+gain-of-function+PPM1D+mutations+in+brainstem+gliomas." title="Exome sequencing identifies somatic gain-of-function PPM1D mutations in brainstem gliomas.">Exome sequencing identifies somatic gain-of-function PPM1D mutations in brainstem gliomas.</a></li> 
+         <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Genome-wide+profiling+of+HPV+integration+in+cervical+cancer+identifies+clustered+genomic+hot+spots+and+a+potential+microhomology-mediated+integration+mechanism." title="Genome-wide profiling of HPV integration in cervical cancer identifies clustered genomic hot spots and a potential microhomology-mediated integration mechanism.">Genome-wide profiling of HPV integration in cervical cancer identifies clustered genomic hot spots and a potential microhomology-mediated integration mechanism.</a></li> 
+         <li><a target="_blank" href="http://www.cell.com/abstract/S0092-8674%2812%2900421-7" title="Generation of Genetically Modified Mice by Oocyte Injection of Androgenetic Haploid Embryonic Stem Cells.">Generation of Genetically Modified Mice by Oocyte Injection of Androgenetic Haploid Embryonic Stem Cells.</a></li> 
+         <li><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S1535610814001196" title="A Long Noncoding RNA Activated by TGF-β Promotes the Invasion-Metastasis Cascade in Hepatocellular Carcinoma">A Long Noncoding RNA Activated by TGF-β Promotes the Invasion-Metastasis Cascade in Hepatocellular Carcinoma</a></li> 
+        </ul> 
+        <div class="clearfix more-div">
+         <a target="_blank" href="/news/publications.html" title="了解更多" class="more-cs">了解更多</a>
+        </div> 
+       </div> 
+      </div> 
+      <div class="div_box last ser_pro"> 
+       <div class="img">
+        <img src="/images/home_3.png" />
+       </div> 
+       <h1 class="clearfix"> <a target="_blank" href="/news/hot-service.html" title="热门服务" class="ie6png select move_3" style="margin-right: 25px;">热门服务</a> <a target="_blank" href="/news/promotions.html" title="普利莱促销" class="ie6png move_4">试用促销</a> </h1> 
+       <div class="hoverC_3"> 
+        <ul class="list-ul blue_a"> 
+         <li><a target="_blank" href="/news/hot-service/3145.html" title="新一代测序服务解决方案-DNA水平研究">新一代测序服务解决方案-DNA水平研究</a></li> 
+         <li><a target="_blank" href="/news/hot-service/3174.html" title="普利莱生物Fluidigm Biomark™ HD SNP分型解决方案">普利莱生物Fluidigm Biomark™ HD SNP分型解决方案</a></li> 
+         <li><a target="_blank" href="/news/hot-service/3173.html" title="普利莱生物GeneTitan系统微阵列研究解决方案">普利莱生物GeneTitan系统微阵列研究解决方案</a></li> 
+         <li><a target="_blank" href="/news/hot-service/3066.html" title="普利莱生物全外显子组测序服务解决方案">普利莱生物全外显子组测序服务解决方案</a></li> 
+         <li><a target="_blank" href="http://www.shanghaibiotech.com/product/307.html" title="Clariom™ D 芯片服务解决方案">Clariom™ D 芯片服务解决方案</a></li> 
+        </ul> 
+        <div class="clearfix more-div">
+         <a target="_blank" href="/news/hot-service.html" title="了解更多" class="more-cs">了解更多</a>
+        </div> 
+       </div> 
+       <div class="hoverC_4" style="display: none;"> 
+        <ul class="list-ul blue_a"> 
+         <li><a target="_blank" href="/news/promotions/3095.html" title="【2016.05促销】普利莱生物lncRNA芯片服务免费送验证啦！" style="margin-top: 0;">【2016.05促销】普利莱生物lncRNA芯片服务免费送验证啦！</a></li> 
+         <li><a target="_blank" href="/news/promotions/3068.html" title="【2016.04促销】人全外显子组深度测序限量抢购！" style="margin-top: 0;">【2016.04促销】人全外显子组深度测序限量抢购！</a></li> 
+         <li><a target="_blank" href="http://www.shanghaibiotech.com/event/544.html" title="【2016.02促销】ceRNA与miRNA联合促销！" style="margin-top: 0;">【2016.02促销】ceRNA与miRNA联合促销！</a></li> 
+         <li><a target="_blank" href="http://www.shanghaibiotech.com/event/498.html" title="【2015.11促销】lncRNA芯片服务免费送！" style="margin-top: 0;">【2015.11促销】lncRNA芯片服务免费送！</a></li> 
+         <li><a target="_blank" href="http://www.shanghaibiotech.com/event/495.html" title="【2015.10促销】microRNA芯片服务免费得小米手环！" style="margin-top: 0;">【2015.10促销】microRNA芯片服务免费得小米手环！</a></li> 
+        </ul> 
+        <div class="clearfix more-div">
+         <a target="_blank" href="/news/promotions.html" title="了解更多" class="more-cs">了解更多</a>
+        </div> 
+       </div> 
+      </div> 
+      <script type="text/javascript">
+			moveFun = function(move1, move2, hoverC1, hoverC2){
+				var move_1 = $('.'+ move1);
+				var move_2 = $('.'+ move2);
+				var hoverC_1 = $('.' + hoverC1);
+				var hoverC_2 = $('.' + hoverC2);
+				
+				move_1.mouseover(function(){
+					hoverC_1.show();
+					hoverC_2.hide();
+					$(this).siblings().removeClass('select');
+					$(this).addClass('select');
+				});
+		
+				move_2.mouseover(function(){
+					hoverC_1.hide();
+					hoverC_2.show();
+					$(this).siblings().removeClass('select');
+					$(this).addClass('select');
+				});
+			}
+		
+			moveFun('move_1', 'move_2', 'hoverC_1', 'hoverC_2');
+			moveFun('move_3', 'move_4', 'hoverC_3', 'hoverC_4');
 
+		</script> 
+     </div> 
+    </div> 
+	
+	
 
 	
 		 
