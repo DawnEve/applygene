@@ -321,6 +321,8 @@ include( DAWN_PATH . 'head.php');
 
 
 
+>>0.2.4 增加about页面。
+纠正foot.php中的图片引入小错误。
 
 
 

@@ -20,11 +20,11 @@
        </div> 
        <div class="socialDiv"> 
         <ul class="social_icons clearfix"> 
-         <li><a style="background-image: url("<?php echo $site_url;?>/images/sina-black.png);" class="social_icon" href="http://weibo.com/ebioservice" target="_blank"></a></li> 
-         <li><a style="background-image: url("<?php echo $site_url;?>/images/tencent-black.png);" class="social_icon" href="" target="_blank"></a></li> 
-         <li><a style="background-image: url("<?php echo $site_url;?>/images/renren-black.png);" class="social_icon" href="" target="_blank"></a></li> 
-         <li><a style="background-image: url("<?php echo $site_url;?>/images/linked-black.png);" class="social_icon" href="" target="_blank"></a></li> 
-         <li><a style="background-image: url("<?php echo $site_url;?>/images/mail-black.png);" class="social_icon" href="mailto:market@shbiochip.com" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/sina-black.png');" class="social_icon" href="http://weibo.com/ebioservice" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/tencent-black.png');" class="social_icon" href="" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/renren-black.png');" class="social_icon" href="" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/linked-black.png');" class="social_icon" href="" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/mail-black.png');" class="social_icon" href="mailto:market@shbiochip.com" target="_blank"></a></li> 
         </ul> 
        </div> 
       </div> 

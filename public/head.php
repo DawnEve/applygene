@@ -82,7 +82,7 @@ $('.ser_btn').click(function(){
 		
 		
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom <?php current_menu('about');?>"><a href="/about.html" title="关于普利莱">关于普利莱</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('about');?>"><a href="/about.php" title="关于普利莱">关于普利莱</a> 
          <!-- 根据分类id获取内容表里分类 -- > 
          <ul class="sub-menu"> 
           <li class="menu-item menu-item-object-post "> <a href="/about.html" title="公司介绍">公司介绍</a> </li> 
