@@ -57,7 +57,7 @@
          </div> 
          <div class="con"> 
           <div class="title">
-           <a href="/contact.html" title="在线咨询" target="_blank">在线咨询</a>
+           <a href="/contact.php" title="在线咨询" target="_blank">在线咨询</a>
           </div> 
           <div>
            我们收到留言后，第一时间回复您或与您联系
@@ -154,11 +154,11 @@
        Copyright &copy; 2016 普利莱生物 豫ICP备-备案中
       </div> 
       <div class="copyright_right"> 
-       <a title="关于普利莱" href="<?php echo $site_url;?>/about.html">关于普利莱</a> 
+       <a title="关于普利莱" href="<?php echo $site_url;?>/about.php">关于普利莱</a> 
        <span>|</span> 
-       <a title="服务与产品" href="<?php echo $site_url;?>/product.html">服务与产品</a> 
+       <a title="服务与产品" href="<?php echo $site_url;?>/product.php">服务与产品</a> 
        <span>|</span> 
-       <a title="联系我们" href="<?php echo $site_url;?>/contact.html">联系我们</a> 
+       <a title="联系我们" href="<?php echo $site_url;?>/contact.php">联系我们</a> 
       </div> 
      </div> 
     </div> 

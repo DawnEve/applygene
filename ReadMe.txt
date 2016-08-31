@@ -333,7 +333,7 @@ http://api.map.baidu.com/lbsapi/creatmap/index.html
 >>0.2.7 实现留言功能。
 基于文件的记录。
 
-
+>>0.2.8 修正底部 在线咨询 链接。
 
 
 
