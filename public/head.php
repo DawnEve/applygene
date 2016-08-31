@@ -1,8 +1,3 @@
-<?php include( getcwd() .'/public/'. 'config.php'); 
-if(!isset($keyword)){ $keyword='home';}
-?>
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head> 
@@ -43,7 +38,7 @@ if(!isset($keyword)){ $keyword='home';}
     <div class="header-top clearfix"> 
      <div class="header clearfix"> 
       <div class="header_left"> 
-       <a href="/" title="河南普利莱生物技术有限公司" style="border: 0;"> <img src="/images/header_logo.png" alt="logo" /> </a> 
+       <a href="/" title="河南普利莱生物技术有限公司" style="border: 0;"> <img src="<?php echo $site_url;?>/images/header_logo.png" alt="logo" /> </a> 
       </div> 
       <div class="header_right clearfix"> 
        <div class="page-info"> 
@@ -82,12 +77,12 @@ $('.ser_btn').click(function(){
      <div class="header clearfix"> 
       <div class="menu-main-menu-container"> 
        <ul id="menu-main-menu" class="sf-menu" style="margin-right: 2px;"> 
-        <li class="menu-item "><a href="/">首页</a></li> 
+        <li class="menu-item <?php current_menu('home');?>"><a href="/">首页</a></li> 
 		
 		
 		
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom "><a href="/about.html" title="关于普利莱">关于普利莱</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('about');?>"><a href="/about.html" title="关于普利莱">关于普利莱</a> 
          <!-- 根据分类id获取内容表里分类 -- > 
          <ul class="sub-menu"> 
           <li class="menu-item menu-item-object-post "> <a href="/about.html" title="公司介绍">公司介绍</a> </li> 
@@ -104,7 +99,7 @@ $('.ser_btn').click(function(){
 		
 		
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom "><a href="/product.html" title="服务与产品">服务与产品</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('product');?>"><a href="/product.html" title="服务与产品">服务与产品</a> 
          <!-- 根据分类id获取内容表里分类 --> 
          <!-- 子分类获取 根据分类id获取 --> 
          <ul class="sub-menu"> 
@@ -271,7 +266,7 @@ $('.ser_btn').click(function(){
 		  
 		 
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom "><a href="/customer.html" title="客户服务">客户服务</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('customer');?>"><a href="/customer.html" title="客户服务">客户服务</a> 
          <!-- 根据分类id获取内容表里分类 --> 
          <ul class="sub-menu"> 
           <li class="menu-item menu-item-object-post "> <a href="/sample.html" title="样本信息提交系统">样本信息提交系统</a> </li> 
@@ -282,7 +277,7 @@ $('.ser_btn').click(function(){
 		 
 		 
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom "><a href="/event.html" title="市场活动">市场活动</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('event');?>"><a href="/event.html" title="市场活动">市场活动</a> 
          <!-- 根据分类id获取内容表里分类 --> 
          <!-- 子分类获取 根据分类id获取 --> 
          <ul class="sub-menu"> 
@@ -295,10 +290,10 @@ $('.ser_btn').click(function(){
 		 
 		 
         <li class="line ie6png"></li> 
-        <li class="menu-item "><a href="/jobs.html" title="人才招聘">人才招聘</a></li> 
+        <li class="menu-item <?php current_menu('jobs');?>"><a href="/jobs.html" title="人才招聘">人才招聘</a></li> 
 		
         <li class="line ie6png"></li> 
-        <li class="menu-item "><a href="/contact.html" title="联系我们">联系我们</a></li> 
+        <li class="menu-item <?php current_menu('contact');?>"><a href="/contact.html" title="联系我们">联系我们</a></li> 
        </ul> 
       </div> 
 	  <!-- PC menu is over-->
@@ -318,12 +313,9 @@ $('.ser_btn').click(function(){
         <!-- 三级分类 --> <option value="/product/list/11.html">-转录组层次研究服务</option> <option value="/product/list/22.html">--全转录组测序服务</option> 
         <!-- 四级分类 --> <option value="/product/94.html">---转录组测序概述及实验分析流程</option> <option value="/product/95.html">---转录组测序应用—基因表达水平研究</option> <option value="/product/96.html">---转录组测序应用—转录本的结构及结构变异研究</option> <option value="/product/97.html">---河南普利莱转录组测序基本分析数据展示</option> <option value="/product/101.html">---转录组测序解决方案资料下载</option> <option value="/product/102.html">---转录组测序数据分析（有参考基因组）</option> <option value="/product/103.html">---转录组测序数据分析（无参考基因组） </option> <option value="/product/list/24.html">--miRNA测序服务</option> 
        
-	   
-        <!-- 四级分类 --> <option value="/product/306.html">-Clariom™ S 芯片服务</option> 
-        <!-- 四级分类 --> <option value="/product/307.html">- Clariom™ D 芯片服务</option> 
+
         <!-- 四级分类 --> <option value="/product/252.html">-lncRNA测序服务</option> 
         <!-- 四级分类 --> <option value="/product/276.html">-环状RNA芯片服务</option> 
-        <!-- 四级分类 --> <option value="/product/277.html">-ceRNA芯片服务</option> 
         <!-- 四级分类 --> <option value="/product/list/23.html">--表达谱芯片服务</option> 
        
 	   
@@ -332,13 +324,10 @@ $('.ser_btn').click(function(){
         
         <!-- 四级分类 --> 
         <!-- 三级分类 --> <option value="/product/list/9.html">-表观遗传学研究服务</option> <option value="/product/list/17.html">--DNA甲基化芯片服务</option> 
-        <!-- 四级分类 --> <option value="/product/290.html">---Illumina 850K (EPIC)甲基化芯片服务</option> <option value="/product/30.html">---Illumina 450K DNA甲基化芯片服务</option> <option value="/product/31.html">---Agilent DNA甲基化芯片服务 </option> <option value="/product/32.html">---SBC DNA甲基化芯片服务</option> <option value="/product/list/246.html">--DNA甲基化序列富集测序服务</option> 
-        <!-- 四级分类 --> <option value="/product/247.html">---NimbleGen SeqCap甲基化序列富集方案</option> <option value="/product/248.html">---Agilent sureselect甲基化序列富集方案</option> <option value="/product/10.html">-ChIP-Sequencing服务</option> 
+        <!-- 四级分类 --> <option value="/product/290.html">---Illumina 850K (EPIC)甲基化芯片服务</option> <option value="/product/30.html">---Illumina 450K DNA甲基化芯片服务</option> <option value="/product/31.html">---Agilent DNA甲基化芯片服务 </option> 
         
         <!-- 四级分类 --> <option value="/product/136.html">---表达谱芯片分析—归一化</option> <option value="/product/137.html">---表达谱芯片分析—差异基因筛选</option> <option value="/product/138.html">---基因表达谱分析—火山图</option> <option value="/product/139.html">---表达谱芯片分析—主成分析分析</option> <option value="/product/140.html">---表达谱芯片分析—样本相关性</option> <option value="/product/141.html">---表达谱芯片分析—聚类分析</option> <option value="/product/142.html">---表达谱芯片分析—基因功能分析（GO analysis）</option> <option value="/product/143.html">---表达谱芯片分析—功能层次网络构建（GO-Network）</option> <option value="/product/144.html">---表达谱芯片分析—信号通路分析（Pathway analysis）</option> <option value="/product/145.html">---表达谱芯片分析—信号通路调控网络构建（Pathway-Network）</option> <option value="/product/146.html">---表达谱芯片分析—基因相互作用网络图</option> <option value="/product/147.html">---表达谱芯片分析—转录因子分析及网络构建</option> <option value="/product/148.html">---表达谱芯片分析—共表达网络构建（Coexpression Network）</option> <option value="/product/149.html">---表达谱芯片分析—时间序列的共表达网络</option> <option value="/product/150.html">---表达谱芯片分析—分子建模预测（MAKER 预测）</option> <option value="/product/261.html">-HTA2.0芯片分析</option> 
-
-        <!-- 三级分类 --> <option value="/support.html">技术支持</option> 
-        
+       
         <!-- 四级分类 --> <option value="/customer.html">客户服务</option> 
 		<option value="/analysis.html">-miRNA预测分析小工具</option> 
     

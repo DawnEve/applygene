@@ -304,6 +304,23 @@ menu is OK.
 
 >>0.2.2 分离 head.php 和 foot.php
 
+>>0.2.3 当前menu高亮，引用地址统一配置
+（1）
+menu可以根据关键词变化当前样式了。
+实现方法：在config.php中定义函数current_menu()
+在html中使用<?php current_menu('home');?>定义样式class
+（2）
+地址引用方式统一化
+定义：
+//定义根目录路径
+defined('DAWN_PATH') or define('DAWN_PATH', dirname(__file__) .'/' );
+
+使用时这样引用：
+include( getcwd() .'/public/'. 'config.php'); 
+include( DAWN_PATH . 'head.php'); 
+
+
+
 
 
 

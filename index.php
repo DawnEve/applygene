@@ -1,4 +1,7 @@
-<?php include( getcwd() .'/public/'. 'head.php'); ?>
+<?php $page_category='home'; //home, about, product, customer, event, jobs, contact
+include( getcwd() .'/public/'. 'config.php'); 
+include( DAWN_PATH . 'head.php'); 
+?>
    
    
    <div id="content"> 
