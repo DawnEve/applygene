@@ -330,6 +330,9 @@ date_default_timezone_set('PRC'); //设置中国时区
 >>0.2.6 百度地图API
 http://api.map.baidu.com/lbsapi/creatmap/index.html
 
+>>0.2.7 实现留言功能。
+基于文件的记录。
+
 
 
 

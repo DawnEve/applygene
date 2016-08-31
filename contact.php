@@ -31,7 +31,7 @@ include( DAWN_PATH . 'head.php');
                     <div class="clearfix">
                         <h3 class="box_header">在线留言</h3></div>
 						
-                    <form class="contact_form" method="post" action="/contact.html" id="ser_from">
+                    <form class="contact_form" method="post" action="/public/do_contact.php" id="ser_from">
                         <fieldset style="clear:both;">
                             <label>姓名</label>
                             <div class="block">
@@ -129,19 +129,24 @@ include( DAWN_PATH . 'head.php');
             </div>
         </div>
     </div>
-    <script type="text/javascript">$('#sendbutton').click(function() {
-            $.post($('#ser_from').attr('action'), $('#ser_from').serialize(),
-            function(o) {
-                if (o.status == 1) {
-                    alert(o.info);
-                    window.location.href = window.location.href;
-                } else {
-                    alert(o.info);
-                    $(o.data).focus();
-                }
-            },
-            'json');
-        });</script>
+	
+<script type="text/javascript">
+$('#sendbutton').click(function() {
+	$.post($('#ser_from').attr('action'), $('#ser_from').serialize(),
+	function(o) {
+		console.log(o);//debug
+		if (o.status == 1) {
+			alert(o.info);
+			window.location.href = window.location.href;
+		} else {
+			alert(o.info);
+			$(o.data).focus();
+		}
+	},
+	'json');
+});
+</script>
+		
     <div class="backToTop ie6png" style="display: block;" title="返回顶部">
         <a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>
     </div>
