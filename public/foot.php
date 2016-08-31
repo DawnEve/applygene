@@ -192,6 +192,7 @@
 			var $backToTopTxt = "返回顶部";
 			var $backToTopEle = $('<div class="backToTop ie6png" style="display: inline;"></div>').appendTo($(className)).html('<a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>').attr("title", $backToTopTxt);
 			$('#backToTop').click(function(){
+				console.log('clicked!!');//debug
 		        $("html, body").animate({ scrollTop: 0 }, 100);
 			});
 			var $backToTopFun = function() {

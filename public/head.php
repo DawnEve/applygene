@@ -105,163 +105,29 @@ $('.ser_btn').click(function(){
          <ul class="sub-menu"> 
 		 
           <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/product/list/12.html" title="基因组层次研究服务">基因组层次研究服务</a> 
-           <ul class="sub-menu"> 
-		   
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/57.html" title="全外显子组捕获测序服务">全外显子组捕获测序服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/65.html" title="普利莱生物全外显子组测序解决方案">普利莱生物全外显子组测序解决方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/299.html" title="基于全外显子组测序的孟德尔遗传疾病研究方案">基于全外显子组测序的孟德尔遗传疾病研究方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/300.html" title="基于全外显子组测序的复杂疾病研究方案">基于全外显子组测序的复杂疾病研究方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/301.html" title="基于全外显子组测序的肿瘤驱动基因研究方案">基于全外显子组测序的肿瘤驱动基因研究方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/63.html" title="外显子区域序列富集技术策略—基于Agilent SureSelect技术">外显子区域序列富集技术策略—基于Agilent SureSelect技术</a> </li> 
-             </ul> </li> 
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/286.html" title="目标区域捕获测序服务">目标区域捕获测序服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/287.html" title="基于AmpliSeqTM 技术的序列捕获解决方案">基于AmpliSeqTM 技术的序列捕获解决方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/288.html" title="基于Agilent HaloPlex技术的序列捕获解决方案">基于Agilent HaloPlex技术的序列捕获解决方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/289.html" title="基于Agilent SureSelect技术的序列捕获解决方案">基于Agilent SureSelect技术的序列捕获解决方案</a> </li> 
-             </ul> </li> 
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/56.html" title="全基因组重测序服务">全基因组重测序服务</a> 
-             <!-- 四级分类 --> </li> 
-
-
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/61.html" title="16S rDNA测序服务">16S rDNA测序服务</a> 
-             <!-- 四级分类 --> </li> 
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/59.html" title="Ion Torrent测序服务">Ion Torrent测序服务</a> 
-             <!-- 四级分类 --> </li> 
-						 
-            <li class="menu-item menu-item-object-post "> <a href="/product/265.html" title="CRISPR/Cas9技术服务">CRISPR/Cas9技术服务</a> 
-             <!-- 四级分类 --> </li> 
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/308.html" title="宏基因组测序">宏基因组测序</a> 
-             <!-- 四级分类 --> </li> 
-			 
-           </ul> 
+           <!-- 三级分类 --> <a href="/product.php#1" title="基因组层次研究服务">基因组层次研究服务</a> 
         </li> 
 		   
 		   
         <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/product/list/11.html" title="转录组层次研究服务">转录组层次研究服务</a> 
-           <ul class="sub-menu"> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/22.html" title="全转录组测序服务">全转录组测序服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/94.html" title="转录组测序概述及实验分析流程">转录组测序概述及实验分析流程</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/101.html" title="转录组测序解决方案资料下载">转录组测序解决方案资料下载</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/102.html" title="转录组测序数据分析（有参考基因组）">转录组测序数据分析（有参考基因组）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/103.html" title="转录组测序数据分析（无参考基因组） ">转录组测序数据分析（无参考基因组） </a> </li> 
-             </ul> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/24.html" title="miRNA测序服务">miRNA测序服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/104.html" title="miRNA测序概述及实验分析流程">miRNA测序概述及实验分析流程</a> </li> 
-
-              <li class="menu-item menu-item-object-post "> <a href="/product/106.html" title="河南普利莱miRNA测序数据分析方案">普利莱miRNA测序数据分析方案</a> </li> 
-
-              <li class="menu-item menu-item-object-post "> <a href="/product/110.html" title="河南普利莱miRNA-Seq服务样品要求">普利莱miRNA-Seq服务样品要求</a> </li> 
-             </ul> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/278.html" title="环状RNA测序服务">环状RNA测序服务</a> 
-             <!-- 四级分类 --> </li> 
-   
-   
-            <li class="menu-item menu-item-object-post "> <a href="/product/76.html" title="lncRNA芯片服务">lncRNA芯片服务</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/75.html" title="外显子表达谱芯片服务">外显子表达谱芯片服务</a> 
-             <!-- 四级分类 --> </li> 
-
-			 
-            <li class="menu-item menu-item-object-post "> <a href="/product/25.html" title="Real-Time PCR服务">Real-Time PCR服务</a> 
-             <!-- 四级分类 --> </li> 
-            
-			
-            <li class="menu-item menu-item-object-post "> <a href="/product/78.html" title="lncRNA验证服务">lncRNA验证服务</a> 
-             <!-- 四级分类 --> </li> 
-             
-            <li class="menu-item menu-item-object-post "> <a href="/product/298.html" title="单细胞转录组测序服务">单细胞转录组测序服务</a> 
-             <!-- 四级分类 --> </li> 
-           </ul> 
+           <!-- 三级分类 --> <a href="/product.php#2" title="转录组层次研究服务">转录组层次研究服务</a> 
         </li> 
 		   
 		   
         <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/product/list/9.html" title="表观遗传学研究服务">表观遗传学研究服务</a> 
-           <ul class="sub-menu"> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/17.html" title="DNA甲基化芯片服务">DNA甲基化芯片服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/290.html" title="Illumina 850K (EPIC)甲基化芯片服务">Illumina 850K (EPIC)甲基化芯片服务</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/30.html" title="Illumina 450K DNA甲基化芯片服务">Illumina 450K DNA甲基化芯片服务</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/31.html" title="Agilent DNA甲基化芯片服务 ">Agilent DNA甲基化芯片服务 </a> </li> 
-             </ul> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/246.html" title="DNA甲基化序列富集测序服务">DNA甲基化序列富集测序服务</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/247.html" title="NimbleGen SeqCap甲基化序列富集方案">NimbleGen SeqCap甲基化序列富集方案</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/248.html" title="Agilent sureselect甲基化序列富集方案">Agilent sureselect甲基化序列富集方案</a> </li> 
-             </ul> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/10.html" title="ChIP-Sequencing服务">ChIP-Sequencing服务</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/18.html" title="MeDIP-Sequencing服务">MeDIP-Sequencing服务</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/19.html" title="全基因组甲基化测序">全基因组甲基化测序</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/250.html" title="PacBio DNA甲基化测序服务">PacBio DNA甲基化测序服务</a> 
-             <!-- 四级分类 --> </li> 
-
-           </ul>
+           <!-- 三级分类 --> <a href="/product.php#3" title="表观遗传学研究服务">表观遗传学研究服务</a> 
         </li> 
 		   
    
 		   
         <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/product/list/15.html" title="生物信息学研究服务">生物信息学研究服务</a> 
-           <ul class="sub-menu"> 
-           
-            <li class="menu-item menu-item-object-post "> <a href="/product/list/120.html" title="表达谱芯片分析">表达谱芯片分析</a> 
-             <!-- 四级分类 --> 
-             <ul class="sub-menu"> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/136.html" title="表达谱芯片分析—归一化">表达谱芯片分析—归一化</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/137.html" title="表达谱芯片分析—差异基因筛选">表达谱芯片分析—差异基因筛选</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/138.html" title="基因表达谱分析—火山图">基因表达谱分析—火山图</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/139.html" title="表达谱芯片分析—主成分析分析">表达谱芯片分析—主成分析分析</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/140.html" title="表达谱芯片分析—样本相关性">表达谱芯片分析—样本相关性</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/141.html" title="表达谱芯片分析—聚类分析">表达谱芯片分析—聚类分析</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/142.html" title="表达谱芯片分析—基因功能分析（GO analysis）">表达谱芯片分析—基因功能分析（GO analysis）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/143.html" title="表达谱芯片分析—功能层次网络构建（GO-Network）">表达谱芯片分析—功能层次网络构建（GO-Network）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/144.html" title="表达谱芯片分析—信号通路分析（Pathway analysis）">表达谱芯片分析—信号通路分析（Pathway analysis）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/145.html" title="表达谱芯片分析—信号通路调控网络构建（Pathway-Network）">表达谱芯片分析—信号通路调控网络构建（Pathway-Network）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/146.html" title="表达谱芯片分析—基因相互作用网络图">表达谱芯片分析—基因相互作用网络图</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/147.html" title="表达谱芯片分析—转录因子分析及网络构建">表达谱芯片分析—转录因子分析及网络构建</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/148.html" title="表达谱芯片分析—共表达网络构建（Coexpression Network）">表达谱芯片分析—共表达网络构建（Coexpression Network）</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/149.html" title="表达谱芯片分析—时间序列的共表达网络">表达谱芯片分析—时间序列的共表达网络</a> </li> 
-              <li class="menu-item menu-item-object-post "> <a href="/product/150.html" title="表达谱芯片分析—分子建模预测（MAKER 预测）">表达谱芯片分析—分子建模预测（MAKER 预测）</a> </li> 
-             </ul> </li> 
-            
-            <li class="menu-item menu-item-object-post "> <a href="/product/128.html" title="甲基化芯片分析">甲基化芯片分析</a> 
-             <!-- 四级分类 --> </li> 
-		   
-            <li class="menu-item menu-item-object-post "> <a href="/product/272.html" title="mRNA测序数据分析">mRNA测序数据分析</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/133.html" title="外显子组测序分析">外显子组测序分析</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/134.html" title="miRNA测序分析">miRNA测序分析</a> 
-             <!-- 四级分类 --> </li> 
-            <li class="menu-item menu-item-object-post "> <a href="/product/135.html" title="RNA测序分析（无参考基因组）">RNA测序分析（无参考基因组）</a> 
-             <!-- 四级分类 --> </li> 
-           </ul> 
+           <!-- 三级分类 --> <a href="/product.php#4" title="生物信息学研究服务">生物信息学研究服务</a> 
 		</li> 
 		   
 		   
         <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="http://www.applygen.com/" title="我司代理北京普利莱试剂耗材/服务">试剂耗材/服务</a> </li> 
-		
+           <!-- 三级分类 --> <a href="/product.php#5" title="代理北京普利莱试剂耗材/服务">试剂耗材/服务</a> </li> 
+
          </ul> </li> 
 		  
 		 

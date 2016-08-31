@@ -348,6 +348,9 @@ include( DAWN_PATH . 'head.php');
 <?php include( getcwd() .'/public/'. 'foot.php'); ?>
 =======================================================
 
+>>0.3.0 删减product结果之后。
+[bug] 有些页面回到顶部不能使用。
+
 
 
 
