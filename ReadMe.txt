@@ -335,9 +335,18 @@ http://api.map.baidu.com/lbsapi/creatmap/index.html
 
 >>0.2.8 修正底部 在线咨询 链接。
 
+>>0.2.9 产品页。
 
+格式化工具：http://tool.chinaz.com/Tools/JsFormat.aspx?jdfwkey=mfkxy
+=======================================================
+首尾模板：
+<?php $page_category='contact'; //home, about, product, customer, event, jobs, contact
+include( getcwd() .'/public/'. 'config.php'); 
+include( DAWN_PATH . 'head.php'); 
+?>
 
-
+<?php include( getcwd() .'/public/'. 'foot.php'); ?>
+=======================================================
 
 
 

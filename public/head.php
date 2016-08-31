@@ -99,7 +99,7 @@ $('.ser_btn').click(function(){
 		
 		
         <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom <?php current_menu('product');?>"><a href="/product.html" title="服务与产品">服务与产品</a> 
+        <li class="submenu menu-item menu-item-type-custom <?php current_menu('product');?>"><a href="/product.php" title="服务与产品">服务与产品</a> 
          <!-- 根据分类id获取内容表里分类 --> 
          <!-- 子分类获取 根据分类id获取 --> 
          <ul class="sub-menu"> 
@@ -302,7 +302,7 @@ $('.ser_btn').click(function(){
       <div class="mobile_menu"> 
        <select> <option selected="" value="/">首页</option> <option value="/about.html">关于普利莱</option> 
         <!-- 根据分类id获取内容表里分类 --> <option value="/about.html">-公司介绍</option> <option value="/company.html">-普利莱资质</option> <option value="/about/licheng.html">-普利莱历程</option> <option value="/about/bhzhil.html">-普利莱质量</option> 
-        <!-- 子分类获取 根据分类id获取 --> <option value="/product.html">服务与产品</option> 
+        <!-- 子分类获取 根据分类id获取 --> <option value="/product.php">服务与产品</option> 
         <!-- 根据分类id获取内容表里分类 --> 
         <!-- 子分类获取 根据分类id获取 --> 
         <!-- 三级分类 --> <option value="/product/list/12.html">-基因组层次研究服务</option> <option value="/product/list/57.html">--全外显子组捕获测序服务</option> 
