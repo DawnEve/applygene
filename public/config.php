@@ -9,6 +9,10 @@ $site_url='http://www.dawneve.com';
 //echo dirname(__file__); //I:\xampp\htdocs\applygene\public
 //echo DAWN_PATH;         //I:\xampp\htdocs\applygene\public/
 
+	
+//设置时区
+date_default_timezone_set('PRC'); //设置中国时区 
+	
 
 //当前的菜单是否当前
 if(!isset($page_category)){

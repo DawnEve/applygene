@@ -324,6 +324,10 @@ include( DAWN_PATH . 'head.php');
 >>0.2.4 增加about页面。
 纠正foot.php中的图片引入小错误。
 
+>>0.2.5 添加时区，订阅和config.php。
+date_default_timezone_set('PRC'); //设置中国时区 
+
+
 
 
 
