@@ -131,14 +131,7 @@ $('.ser_btn').click(function(){
          </ul> </li> 
 		  
 		 
-        <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom <?php current_menu('customer');?>"><a href="/customer.html" title="客户服务">客户服务</a> 
-         <!-- 根据分类id获取内容表里分类 --> 
-         <ul class="sub-menu"> 
-          <li class="menu-item menu-item-object-post "> <a href="/sample.html" title="样本信息提交系统">样本信息提交系统</a> </li> 
-          <li class="menu-item menu-item-object-post "> <a href="/analysis.html" title="miRNA预测分析小工具">miRNA预测分析小工具</a> </li> 
-         </ul> 
-         <!-- 子分类获取 根据分类id获取 --> </li> 
+
 		 
 		 
 		 

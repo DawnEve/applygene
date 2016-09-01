@@ -20,7 +20,7 @@
        </div> 
        <div class="socialDiv"> 
         <ul class="social_icons clearfix"> 
-         <li><a style="background-image: url('<?php echo $site_url;?>/images/sina-black.png');" class="social_icon" href="http://weibo.com/ebioservice" target="_blank"></a></li> 
+         <li><a style="background-image: url('<?php echo $site_url;?>/images/sina-black.png');" class="social_icon" href="http://weibo.com/applybio" target="_blank"></a></li> 
          <li><a style="background-image: url('<?php echo $site_url;?>/images/tencent-black.png');" class="social_icon" href="" target="_blank"></a></li> 
          <li><a style="background-image: url('<?php echo $site_url;?>/images/renren-black.png');" class="social_icon" href="" target="_blank"></a></li> 
          <li><a style="background-image: url('<?php echo $site_url;?>/images/linked-black.png');" class="social_icon" href="" target="_blank"></a></li> 
@@ -192,7 +192,6 @@
 			var $backToTopTxt = "返回顶部";
 			var $backToTopEle = $('<div class="backToTop ie6png" style="display: inline;"></div>').appendTo($(className)).html('<a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>').attr("title", $backToTopTxt);
 			$('#backToTop').click(function(){
-				console.log('clicked!!');//debug
 		        $("html, body").animate({ scrollTop: 0 }, 100);
 			});
 			var $backToTopFun = function() {
@@ -212,7 +211,6 @@
 		//订阅 
 		$('#btn').click(function(){
 			$.post($('#sub-form').attr('action'),$('#sub-form').serialize(),function(o){
-			 //console.log(o);//wjl
 				if(o.status == 1){
 					alert(o.info);
 					window.location.href = window.location.href;

@@ -147,9 +147,7 @@ $('#sendbutton').click(function() {
 });
 </script>
 		
-    <div class="backToTop ie6png" style="display: block;" title="返回顶部">
-        <a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>
-    </div>
+
 </div>
 
 

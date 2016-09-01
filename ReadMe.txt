@@ -349,8 +349,34 @@ include( DAWN_PATH . 'head.php');
 =======================================================
 
 >>0.3.0 删减product结果之后。
-[bug] 有些页面回到顶部不能使用。
+[fixedAt0.3.1] 有些页面回到顶部不能使用。
 
+>>0.3.1 修复 返回顶部 bug
+=======================================================
+		/**
+		 * 返回顶部
+		 * Author:cynthia
+		*/
+		backToTop = function(className){
+			var $backToTopTxt = "返回顶部";
+			var $backToTopEle = $('<div class="backToTop ie6png" style="display: inline;"></div>').appendTo($(className)).html('<a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>').attr("title", $backToTopTxt);
+			$('#backToTop').click(function(){
+		        $("html, body").animate({ scrollTop: 0 }, 100);
+			});
+			var $backToTopFun = function() {
+			    var st = $(document).scrollTop(), winh = $(window).height();
+			    (st > 0)? $backToTopEle.show(): $backToTopEle.hide();
+			    //IE6下的定位
+			    if (!window.XMLHttpRequest) {
+			        $backToTopEle.css("top", st + winh - 166);
+			    }
+			};
+			$(window).bind("scroll", $backToTopFun);
+			$(function() { $backToTopFun(); });
+			
+		};
+		backToTop('#content');
+=======================================================
 
 
 
