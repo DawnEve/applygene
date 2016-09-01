@@ -36,7 +36,7 @@ include( DAWN_PATH . 'head.php');
                                 <div class="content">
                                     <div class="info">工作地点：郑州 　
                                         <br>招聘部门：生物信息部
-                                        <br>招聘人数：5人
+                                        <br>招聘人数：2人
                                         <br>岗位职责：
                                         <br>1. 设计、创建和维护各种生物信息分析流程；
                                         <br>2. 相关生物信息数据的采集、整理、挖掘和利用；

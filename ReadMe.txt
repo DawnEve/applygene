@@ -389,5 +389,8 @@ include( DAWN_PATH . 'head.php');
 删减信息之前。
 
 >>0.3.4 jobs page is OK
+>>0.3.5 添加企业邮箱链接。
+https://exmail.qq.com/login
+
 
 

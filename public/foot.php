@@ -109,6 +109,8 @@
      <div class="linkDiv"> 
       <ul class="link-css clearfix" id="link-0"> 
        <li><a href="http://www.applygen.com" title="北京普利莱" target="_blank">北京普利莱基因技术有限公司</a></li> 
+       <li><a href="https://exmail.qq.com/login" title="applybio.com邮箱" target="_blank">登陆公司邮箱</a></li> 
+	   
        <li><a href="#" title="普利莱健康基因商城" target="_blank">普利莱健康基因商城</a></li> 
       </ul> 
       <ul class="link-css clearfix" id="link-1" style="display: none;"> 
