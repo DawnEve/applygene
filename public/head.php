@@ -133,21 +133,6 @@ $('.ser_btn').click(function(){
 		 
 
 		 
-		 
-		 
-        <li class="line ie6png"></li> 
-        <li class="submenu menu-item menu-item-type-custom <?php current_menu('event');?>"><a href="/event.html" title="市场活动">市场活动</a> 
-         <!-- 根据分类id获取内容表里分类 --> 
-         <!-- 子分类获取 根据分类id获取 --> 
-         <ul class="sub-menu"> 
-          <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/event/list.html?id=241" title="专题讲座">专题讲座</a> </li> 
-          <li class="menu-item menu-item-object-post "> 
-           <!-- 三级分类 --> <a href="/event/list.html?id=240" title="培训班">培训班</a> </li> 
-         </ul> </li> 
-		 
-		 
-		 
         <li class="line ie6png"></li> 
         <li class="menu-item <?php current_menu('jobs');?>"><a href="/jobs.php" title="人才招聘">人才招聘</a></li> 
 		

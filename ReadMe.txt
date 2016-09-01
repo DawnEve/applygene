@@ -392,5 +392,6 @@ include( DAWN_PATH . 'head.php');
 >>0.3.5 添加企业邮箱链接。
 https://exmail.qq.com/login
 
+>>0.3.6 简化menu
 
 
