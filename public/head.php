@@ -149,7 +149,7 @@ $('.ser_btn').click(function(){
 		 
 		 
         <li class="line ie6png"></li> 
-        <li class="menu-item <?php current_menu('jobs');?>"><a href="/jobs.html" title="人才招聘">人才招聘</a></li> 
+        <li class="menu-item <?php current_menu('jobs');?>"><a href="/jobs.php" title="人才招聘">人才招聘</a></li> 
 		
         <li class="line ie6png"></li> 
         <li class="menu-item <?php current_menu('contact');?>"><a href="/contact.php" title="联系我们">联系我们</a></li> 
@@ -190,7 +190,7 @@ $('.ser_btn').click(function(){
         <!-- 四级分类 --> <option value="/customer.html">客户服务</option> 
 		<option value="/analysis.html">-miRNA预测分析小工具</option> 
     
-        <!-- 三级分类 --> <option value="/jobs.html">人才招聘</option> <option value="/contact.html">联系我们</option> </select> 
+        <!-- 三级分类 --> <option value="/jobs.php">人才招聘</option> <option value="/contact.php">联系我们</option> </select> 
       </div> 
 	  
 	  

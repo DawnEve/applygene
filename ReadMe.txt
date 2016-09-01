@@ -380,5 +380,5 @@ include( DAWN_PATH . 'head.php');
 
 >>0.3.2 修改图片 images\address\applyBio_address.jpg, 使文字和背景重合。
 
-
+>>0.3.3 before delete jobs page.
 

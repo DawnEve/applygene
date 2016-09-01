@@ -1,0 +1,876 @@
+<?php $page_category='jobs'; //home, about, product, customer, event, jobs, contact
+include( getcwd() .'/public/'. 'config.php'); 
+include( DAWN_PATH . 'head.php'); 
+?>
+
+
+
+<div id="content">
+    <div class="page_header clearfix">
+        <div class="theme_page relative clearfix">
+            <div class="page_header_left">
+                <ul class="bread_crumb">
+                    <li>
+                        <a href="/" title="首页">首页</a></li>
+                    <li class="separator">&gt;</li>
+                    <li>
+                        <span>人才招聘</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="theme_page relative jobsDiv">
+        <div class="wpb_row vc_row-fluid  page_margin_top">
+            <div class="vc_span9 wpb_column column_container">
+                <div class="wpb_wrapper clearfix">
+                    <h2>加入我们，共创未来</h2>
+                    <div class="job-list">
+                        <ul>
+                            <li class="select">
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="生物信息部—生物信息工程师" class="title">生物信息部—生物信息工程师</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：生物信息部
+                                        <br>招聘人数：5人
+                                        <br>岗位职责：
+                                        <br>1. 设计、创建和维护各种生物信息分析流程；
+                                        <br>2. 相关生物信息数据的采集、整理、挖掘和利用；
+                                        <br>3. 主要方向分别为：RNAseq，DNAseq，宏基因组，芯片流程。</div>
+                                    <div class="con">
+                                        <p>岗位要求：
+                                            <br>1.熟悉NGS/microarray的基本数据分析流程，掌握常用的分析软件。
+                                            <br>2.至少熟练使用Perl，R，Python或者其他相关编程语言中的一种。
+                                            <br>3.生物相关专业，本科及以上学历。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="生物信息部—算法工程师" class="title">生物信息部—算法工程师</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：生物信息部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>面向临床应用，数据挖掘。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.熟悉数据挖掘，机器学习的基本流程，掌握常用的分析软件。
+                                            <br>2.至少熟练使用R，SAS，Matlab，SPSS统计软件中的一种。
+                                            <br>3.数学相关专业，基本功扎实，本科及以上学历。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="生物信息部—网络系统工程师" class="title">生物信息部—网络系统工程师</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海
+                                        <br>招聘部门：生物信息部 　
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>网络管理和维护：
+                                        <br>1.企业内部网络建设和管理；进行网络架构的规划、设计、调整、性能优化；
+                                        <br>2.网络环境的管理，配置，排错，维护；
+                                        <br>3.网络设备的安装、配置、管理，提供网络设备维护方案；
+                                        <br>4.网络安全，网络质量及网络设备的监控；
+                                        <br>5.协助办公网络环境的维护，终端设备的维护。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>理工科专业，大专及以上学历。</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="生物信息部—系统开发工程师" class="title">生物信息部—系统开发工程师</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：生物信息部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>基于web的流程开发。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.熟悉linux系统，以及shell编程。
+                                            <br>2.至少熟悉PHP，JSP，ASP等编程语言中的一种。
+                                            <br>3.熟悉数据库的搭建工作以及SQL语言。
+                                            <br>4.理工科专业，大专及以上学历。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—产品经理（微生物组学产品线）" class="title">产品线—产品经理（微生物组学产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 完成公司微生物组学产品线的市场分析与定位、市场战略制定；
+                                        <br>2. 负责实现公司微生物组学产品线销售和利润目标；
+                                        <br>3. 根据市场需求升级现有产品/服务、开发新产品/服务，建设产品服务体系；
+                                        <br>4. 负责为客户提供售前和售后技术和应用支持；
+                                        <br>5. 负责为客户和销售提供产品/服务培训；
+                                        <br>6. 协同市场部进行产品线市场宣传和推广活动（宣传资料编撰、产品线宣讲/学术推广等）；
+                                        <br>7. 协同销售部做好售前的技术问题的处理和项目方案的制定。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 扎实的分子生物学、微生物、生物信息专业知识，硕士及以上学历；熟悉高通量组学技术或有相关课题经验者优先；
+                                            <br>2. 具有认真负责的工作态度，自我驱动型的进取精神；
+                                            <br>3. 具有较强的市场竞争意识、成本意识和服务意识；
+                                            <br>4. 具有较强的学习能力，具有良好的文献检索及文献总结能力；
+                                            <br>5. 具有良好的人际交往、客户沟通能力；较好的团队沟通与协作能力；
+                                            <br>6. 具有投较强的抗压能力，能够适应短时间出差工作。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—技术支持（DNA测序产品线）" class="title">产品线—技术支持（DNA测序产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责为客户提供售前和售后技术和应用支持；
+                                        <br>2. 负责为客户和销售提供产品/服务培训；
+                                        <br>3. 协同市场部进行产品线市场宣传和推广活动（宣传资料编撰、产品线宣讲/学术推广等）；
+                                        <br>4. 协同销售部做好售前的技术问题的处理和项目方案的制定。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 硕士及以上学历，生物、医学、农林等相关专业；熟悉高通量组学技术或有相关课题经验者优先；
+                                            <br>2. 具有良好的人际交往和沟通能力；
+                                            <br>3. 具有良好的心理素质和表达能力；
+                                            <br>4. 具有良好的文献检索及文献总结能力；。
+                                            <br>5. 可接受出差。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—高级生物信息工程师（表达谱芯片产品线）" class="title">产品线—高级生物信息工程师（表达谱芯片产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 设计、创建和维护产品线生物信息分析流程；
+                                        <br>2. 利用各类生物信息软件和统计学方法进行基因芯片数据分析，撰写分析报告；负责跟踪、管理表达谱芯片产品线数据分析工作；
+                                        <br>3. 相关生物信息数据的采集、整理、挖掘和利用。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 具有生物学、生物信息学、统计学、数学或计算机相关专业背景，本科以上学历；
+                                            <br>2. 熟悉基因组知识，对生物统计学原理及意义有一定的理解及应用能力；
+                                            <br>3. 了解常用生物信息分析软件，具有一定的编程能力，有2年以上相关岗位经验者优先；
+                                            <br>4. 具有较强的学习能力，良好的沟通与表达能力，能承受工作压力，具有团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—生物信息工程师（RNA测序产品线）" class="title">产品线—生物信息工程师（RNA测序产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责设计、创建和维护RNA测序产品线生物信息分析流程；
+                                        <br>2. 负责RNA测序数据分析工作，并撰写分析报告；
+                                        <br>3. 负责相关生物信息数据的采集、整理、挖掘和利用。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 具有生物学、生物信息学、统计学、数学或计算机相关专业背景，本科以上学历；
+                                            <br>2. 熟悉基因组知识，对生物统计学原理及意义有一定的理解及应用能力；
+                                            <br>3. 了解常用新一代测序分析方法、分析软件，具有一定的编程能力者，有相关岗位经验者优先；
+                                            <br>4. 具有较强的学习能力，良好的沟通与表达能力，能承受工作压力，具有团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—高级生物信息工程师（DNA产品线）" class="title">产品线—高级生物信息工程师（DNA产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 利用各类生物信息软件和统计学方法进行生物数据的分析研究；
+                                        <br>2. 设计、创建和维护DNA产品线（DNA重测序、外显子/靶向捕获测序、SNP芯片）生物信息分析流程；
+                                        <br>3. 负责管理、分配、跟踪DNA产品线数据分析工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 生物学、计算机、数学、遗传学、生物信息学等相关专业，硕士及以上学历+2年相关工作经历或本科学历+5年相关工作经历；
+                                            <br>2. 熟悉常用的生物网站或数据库，熟悉linux操作系统，拥有良好的编程能力或优秀的生物学基础；
+                                            <br>3. 对生物统计学的原理及意义有深刻的理解及应用能力，耐心仔细，积极好学；
+                                            <br>4. 优秀的团队协作、管理能力，具备优秀的与客户沟通能力者尤佳。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—高级生物信息工程师（表达谱芯片产品线）" class="title">产品线—高级生物信息工程师（表达谱芯片产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 设计、创建和维护产品线生物信息分析流程；
+                                        <br>2. 利用各类生物信息软件和统计学方法进行基因芯片数据分析，撰写分析报告；负责跟踪、管理表达谱芯片产品线数据分析工作；
+                                        <br>3. 相关生物信息数据的采集、整理、挖掘和利用。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 具有生物学、生物信息学、统计学、数学或计算机相关专业背景，本科以上学历；
+                                            <br>2. 熟悉基因组知识，对生物统计学原理及意义有一定的理解及应用能力；
+                                            <br>3. 了解常用生物信息分析软件，具有一定的编程能力，有2年以上相关岗位经验者优先；
+                                            <br>4. 具有较强的学习能力，良好的沟通与表达能力，能承受工作压力，具有团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—高级生物信息工程师（RNA测序产品线）" class="title">产品线—高级生物信息工程师（RNA测序产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：产品线
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 维护品线所有分析流程的流畅运作，对相关流程进行持续改进；
+                                        <br>2. 管理、分配、跟踪RNA测序产品线的分析工作；
+                                        <br>3. 完成高级分析和个性化分析项目；
+                                        <br>4. 解决售后的分析问题；
+                                        <br>5. 了解最新的分析方法和软件；
+                                        <br>6. 指导生物信息培训生的工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1. 具有生物学、生物信息学、统计学、数学或计算机相关专业背景，本科以上学历；
+                                            <br>2. 熟悉基因组知识，对生物统计学原理及意义有一定的理解及应用能力；
+                                            <br>3. 了解常用生物信息分析软件，具有一定的编程能力，有2年以上相关岗位经验者优先；
+                                            <br>4. 具有较强的学习能力，良好的沟通与表达能力，能承受工作压力，具有团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—大客户专员（遗传健康产品线）" class="title">产品线—大客户专员（遗传健康产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海
+                                        <br>招聘部门：产品线 　
+                                        <br>招聘人数：1
+                                        <br>岗位职责：
+                                        <br>1. 负责通过各种方式准确、及时发现并跟踪有效客户信息，独立开发潜在客户，定期拜访客户，维护客户关系；
+                                        <br>2. 根据客户需求提供相应的解决方案，签订合同，跟进项目进展及回款事宜，协助产品经理完成产品线年度营销目标；
+                                        <br>3. 熟悉互联网+营销模式，结合已有及开发的线下大客户，为公司的互联网营销平台引流，共同向线上线下全方位营销的目标推进；
+                                        <br>4. 为大客户提供一对一咨询解答，评估并管理大客户健康数据，为客户提供最优的健康生活方案。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.有遗传学、分子生物学、医学相关本科及以上学历背景，有本专业知识基础；
+                                            <br>2.熟悉大客户客服基本流程，熟练运用营养学、公共卫生等基础知识解答大客户疑问；
+                                            <br>3.语言表达能力强，善于与人沟通，有很强的团队合作意识；
+                                            <br>4.学习能力强，性格开朗，条理清晰，具备独立分析和解决科学问题的能力；
+                                            <br>5.有健康管理相关工作经验尤佳。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="产品线—市场专员（遗传健康产品线）" class="title">产品线—市场专员（遗传健康产品线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海
+                                        <br>招聘部门：产品线 　
+                                        <br>招聘人数：1
+                                        <br>岗位职责：
+                                        <br>1. 协助产品经理建立、完善公司遗传健康产品线互联网营销平台，根据市场变化推出相应的市场活动，协助产品经理完成产品线年度营销目标；
+                                        <br>2. 根据遗传健康产品线产品特色，利用微信、淘宝、网站等电商平台，制定出合适的营销推广方案；
+                                        <br>3. 熟悉互联网+营销模式，了解健康基因检测线下线上推广模式，并协助线下销售做好线上产品推广；
+                                        <br>4. 负责该产品线产品的宣传推广，宣传资料的制作，结合具体产品类型为客户提供最优的健康生活方案。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.本科及以上学历背景，市场营销、互联网、广告或生物学相关专业；
+                                            <br>2.熟悉互联网营销模式，有很强的团队合作意识；
+                                            <br>3.有一定的文案功底，学习能力强，性格开朗，具备独立分析和解决科学问题的能力；
+                                            <br>4.出色的语言、沟通、组织和协调能力，能对任务作出快速反应
+                                            <br>5.有过线上营销经验和内容营销的，曾服务过大型互联网公司的优先。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（上海办事处）" class="title">销售部—技术服务销售工程师（上海办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1-2人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（北京办事处）" class="title">销售部—技术服务销售工程师（北京办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：北京　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <h5>岗位要求：</h5>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（杭州办事处）" class="title">销售部—技术服务销售工程师（杭州办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：杭州　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <h5>岗位要求：</h5>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（武汉办事处）" class="title">销售部—技术服务销售工程师（武汉办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：武汉　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1-2人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（成都办事处）" class="title">销售部—技术服务销售工程师（成都办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：成都
+                                        <br>招聘部门：销售部 　
+                                        <br>招聘人数：1-2人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求:</strong></p>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（南宁办事处）" class="title">销售部—技术服务销售工程师（南宁办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：广西南宁 　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1-2人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（厦门办事处）" class="title">销售部—技术服务销售工程师（厦门办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：厦门
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <h5>岗位要求：</h5>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（重庆办事处）" class="title">销售部—技术服务销售工程师（重庆办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：重庆　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <h5>
+                                            <span style="font-weight: normal;">岗位要求：
+                                                <br>1.本科以上学历，生物、医学或农林相关专业；
+                                                <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                                <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                                <br>4.有销售经验者优先；
+                                                <br>5.能立刻到岗者，优先考虑。</span>
+                                            <br></h5>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（天津办事处）" class="title">销售部—技术服务销售工程师（天津办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：天津
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <p>岗位要求：</p>
+                                        <p>1.本科以上学历，生物、医学或农林相关专业；
+                                            <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                            <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                            <br>4.有销售经验者优先；
+                                            <br>5.能立刻到岗者，优先考虑。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术服务销售工程师（工业界）" class="title">销售部—技术服务销售工程师（工业界）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1. 负责区域内生物芯片、新一代测序等高通量组学服务的销售；
+                                        <br>2. 负责通过各种方式准确、及时发现并跟踪有效的客户信息，独立开发负责区域的潜在客户，定期拜访客户，维护客户关系；
+                                        <br>3. 根据客户需求提供项目解决方案，签订项目合同，跟进项目进展以及回款等事宜；
+                                        <br>4. 完成年度营销目标以及其他任务；
+                                        <br>5. 了解市场需求、产品竞争等情况，并协助公司市场部在区域内进行市场推广工作。</div>
+                                    <div class="con">
+                                        <h5>
+                                            <span style="font-weight: normal;">岗位要求：
+                                                <br>1.本科以上学历，生物、医学或农林相关专业；
+                                                <br>2.良好的表达能力，富于协作精神及强烈的团队合作意识；
+                                                <br>3.诚实守信，责任感强，能承受较大的工作压力，自律性强；
+                                                <br>4.有销售经验者优先；
+                                                <br>5.能立刻到岗者，优先考虑。</span>
+                                            <br></h5>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术支持（生物信息方向）" class="title">销售部—技术支持（生物信息方向）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：北京、上海
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1-2人
+                                        <br>岗位职责：
+                                        <br>1.协助销售人员完成客户对生物信息学的二次基本分析，以芯片和二代测序数据整理和处理为主；
+                                        <br>2.优化分析流程，出具分析报告，并负责对所分析数据的问题解释；
+                                        <br>3.负责销售的其他日常支持。
+                                        <br></div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong>
+                                            <br></p>
+                                        <ul type="disc">
+                                            <li style="COLOR: black">生物信息学或相关专业本科学历以上，硕士优先；</li>
+                                            <li style="COLOR: black">熟练使用常用生物信息学工具，具有一定的编程能力；</li>
+                                            <li style="COLOR: black">熟悉常用数据库如：GO,KEGG等，熟悉常用网站如：ncbi,ensemble,UCSC等；</li>
+                                            <li style="COLOR: black">具有良好的学习能力和团队合作精神。</li>
+                                            <li style="COLOR: black"></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术支持（上海办事处）" class="title">销售部—技术支持（上海办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.协助销售人员完成客户对生物信息学的二次基本分析，以芯片和二代测序数据整理和处理为主；
+                                        <br>2.优化分析流程，出具分析报告，并负责对所分析数据的问题解释；
+                                        <br>3.负责销售的其他日常支持。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>
+                                            <br>1.生物信息学或相关专业本科学历以上，硕士优先；
+                                            <br>2.熟练使用常用生物信息学工具，具有一定的编程能力；
+                                            <br>3.熟悉常用数据库如：GO,KEGG等，熟悉常用网站如：ncbi,ensemble,UCSC等；
+                                            <br>4.具有良好的学习能力和团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—技术支持（北京办事处）" class="title">销售部—技术支持（北京办事处）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：北京
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.协助销售人员完成客户对生物信息学的二次基本分析，以芯片和二代测序数据整理和处理为主；
+                                        <br>2.优化分析流程，出具分析报告，并负责对所分析数据的问题解释；
+                                        <br>3.负责销售的其他日常支持。</div>
+                                    <div class="con">岗位要求：
+                                        <br>
+                                        <br>
+                                        <br>1.生物、医学、农林及相关专业，硕士及以上学历，博士优先；
+                                        <br>2.有高通量测序、生物芯片相关工作经验，或有医学相关学历、经历者优先；
+                                        <br>3.良好的人际交往和沟通能力；
+                                        <br>4.良好的心理素质和表达能力；
+                                        <br>5.阅读英文专业文献无障碍。</div></div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="销售部—销售助理（试剂业务线）" class="title">销售部—销售助理（试剂业务线）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：销售部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.协助上级对公司生产及代理的试剂类产品进行市场宣传策划和开拓；
+                                        <br>2.接听客户的咨询电话，及时做好记录；
+                                        <br>3.完成公司Lims系统的试剂出库、物流发货；负责发放货物的跟踪落实，及时反馈和解决此过程中出现的问题；
+                                        <br>4.整理归档合同文件，配合上级完成市场销售过程中的商务流程性事务及其他各项相关工作。</div>
+                                    <div class="con">
+                                        <strong>岗位要求：
+                                            <br></strong>
+                                        <br>1.生物、医药相关专业，或具有相关行业经验者亦可，本科学历；
+                                        <br>2.具有亲和力、逻辑思维能力，较强的语言表达能力及人际沟通能力；
+                                        <br>3.工作细致认真，有较强的责任心及工作主动性和开拓精神；
+                                        <br>4.熟练操作OFFICE系统，CET4，较强的读写能力。</div></div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="商务中心—商务助理" class="title">商务中心—商务助理</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：商务中心
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.负责销售合同会签、合同评审等合同履约流程的商务处理；
+                                        <br>2.负责发票开具、发票登记等发票相关流程的商务处理；
+                                        <br>3.负责销售部各地办事处物流费用、报销费用的核查和处理；
+                                        <br>4.负责合同和发票等事宜的月度统计和报告提交工作；
+                                        <br>5.配合起草、修改各类对外商务往来函件；
+                                        <br>6.配合公司的招投标和其它部门商务工作。</div>
+                                    <div class="con">
+                                        <div>
+                                            <p style="COLOR: black">
+                                                <strong>&nbsp;岗位要求：</strong></p>
+                                            <p style="COLOR: black">1.大专及以上学历；
+                                                <br>2.具备良好的团队协作能力；
+                                                <br>3.良好的亲和力、语言和书面表达能力和沟通能力。</p></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="商务中心—项目管理专员" class="title">商务中心—项目管理专员</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：商务中心
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.合同中关于实验内容的评审；
+                                        <br>2.项目进度安排，负责项目跟踪、报告审核以及出具项目总结报告；
+                                        <br>3.项目报告整理,项目定期汇报；
+                                        <br>4.项目进度相关统计和分析。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.学历要求：本科以上学历；
+                                            <br>2.教育背景：分子生物学、遗传学、生命科学、生物技术、临床医学等专业；
+                                            <br>3.熟悉基因芯片、新一代测序等基本高通量基因组学技术者优先；
+                                            <br>4.善于沟通客户。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="技术服务部—研究助理（新一代测序实验室）" class="title">技术服务部—研究助理（新一代测序实验室）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：技术服务部-新一代测序实验室
+                                        <br>招聘人数：2人
+                                        <br>岗位职责：
+                                        <br>负责新一代测序相关实验工作：
+                                        <br>1.负责按照标准操作流程（SOP）完成实验工作：包括样本质检；高通量测序文库构建（包括DNA文库、RNA文库、small RNA文库、Sureselect文库等）等；
+                                        <br>2.实验室其他相关工作。</div>
+                                    <div class="con">
+                                        <p>
+                                            <strong>岗位要求：</strong></p>
+                                        <p>1.生物、医学相关专业，大专及以上学历；
+                                            <br>2.熟悉分子生物学基础理论和常规操作技术；
+                                            <br>3.有新一代测序工作经验者优先；
+                                            <br>4.具有良好的学习、沟通能力和团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="技术服务部—研究助理（分子检测实验室）" class="title">技术服务部—研究助理（分子检测实验室）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：技术服务部-生物样品分析实验室
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>负责分子检测相关实验工作：
+                                        <br>1.负责按照标准操作流程（SOP）完成实验工作：包括定量PCR、一代测序、焦磷酸测序等；
+                                        <br>2.实验室其他相关工作。</div>
+                                    <div class="con">
+                                        <p>岗位要求：</p>
+                                        <p>1.生物、医学相关专业，大专及以上学历；
+                                            <br>2.熟悉分子生物学基础理论和常规操作技术；
+                                            <br>3.有相关实验室工作经验者优先；
+                                            <br>4.具有良好的学习、沟通能力和团队合作精神。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="技术服务部—研究助理（样本中心）" class="title">技术服务部—研究助理（样本中心）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：技术服务部-生物样品分析实验室
+                                        <br>招聘人数：2人
+                                        <br>岗位职责：
+                                        <br>1.经培训后，熟练掌握各种生物样品DNA、RNA抽提技术；
+                                        <br>2.严格按工作规程操作，并适时提出改进建议；
+                                        <br>3.仪器设备的日常维护和保养；
+                                        <br>4.其他相关工作。</div>
+                                    <div class="con">
+                                        <p>岗位要求：</p>
+                                        <p>1.生物学、医学等相关专业大专及以上学历；
+                                            <br>2.对实验工作有较强的兴趣，性格耐心细致；
+                                            <br>3.熟悉分子生物学基础理论；
+                                            <br>4.具备良好的学习能力，适应能力，沟通能力和团队精神；
+                                            <br>5.具有核酸提取工作经验的人员优先。</p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="技术服务部—研究助理（微阵列芯片实验室）（实习）" class="title">技术服务部—研究助理（微阵列芯片实验室）（实习）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海 　
+                                        <br>招聘部门：技术服务部-微阵列芯片实验室
+                                        <br>招聘人数：1人
+                                        <br>岗位职责： 负责基因芯片相关实验工作：
+                                        <br>1.负责DNA、RNA样本纯化；
+                                        <br>2.负责样本荧光标记；
+                                        <br>3.负责芯片杂交；
+                                        <br>4.实验室其他相关工作。</div>
+                                    <div class="con">
+                                        <p>岗位要求:
+                                            <br>1.生物、医学相关专业，大专及以上学历；
+                                            <br>2.熟悉分子生物学基础理论和常规操作技术；
+                                            <br>3.有基因芯片相关工作经验者优先；
+                                            <br>4.具备良好的学习、沟通能力和团队精神。
+                                            <br></p></div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="财务部—成本会计（上海）" class="title">财务部—成本会计（上海）</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：上海　
+                                        <br>招聘部门：财务部
+                                        <br>招聘人数：1人
+                                        <br>岗位职责：
+                                        <br>1.成本核算：负责成本核算，符合会计准则规定和公司相关制度；
+                                        <br>2.成本分析：分析各类型服务或销售的成本、毛利情况；
+                                        <br>3.融入团队工作，良好协作；
+                                        <br>4.公司要求、领导安排的其他工作。</div>
+                                    <div class="con">
+                                        <strong>岗位要求：
+                                            <br></strong>
+                                        <br>1.财会及相关专业，本科以上学历；
+                                        <br>2.持有会计上岗证，能独立从事企业财会工作；
+                                        <br>3.三年以上成本会计工作经验，有类似行业经验的优先；
+                                        <br>4.熟练掌握ERP系统，尤其是业务模块；
+                                        <br>5.精通办公软件，尤其是EXCEL软件处理，熟练掌握ACCESS数据库的优先；
+                                        <br>6.良好的沟通技巧及表达能力，团队协作能力强。</div></div>
+                            </li>
+                        </ul>
+                    </div>
+                    <script type="text/javascript">$('.job-list ul li').each(function(index) {
+                            $(this).click(function() {
+                                $('.job-list ul li').each(function() {
+                                    $(this).removeClass('select');
+                                });
+                                $(this).addClass('select');
+                            });
+                        });</script>
+                </div>
+            </div>
+            <div class="vc_span3 wpb_column column_container" style="_float: right;">
+                <div class="jobs_right">
+                    <div class="wpb_wrapper clearfix">
+                        <div>
+                            <div>
+                                <img src="/images/temp/job-img.jpg"></div>
+                        </div>
+                    </div>
+                    <div class="wpb_wrapper clearfix page_margin_top_section">
+                        <div class="clearfix">
+                            <h3 class="box_header">联系我们</h3></div>
+                        <div style="padding-top: 25px;">
+                            <div>联系人：顾小姐</div>
+                            <div>电话：021-51320288</div>
+                            <div>传真：021-51320266</div>
+                            <div>EMAIL：
+                                <a href="mailto:bhhr@shbiochip.com">bhhr@shbiochip.com</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="backToTop ie6png" style="display: none;" title="返回顶部">
+        <a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>
+    </div>
+</div>
+
+
+
+
+
+
+<?php include( getcwd() .'/public/'. 'foot.php'); ?>
