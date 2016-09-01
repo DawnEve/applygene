@@ -377,8 +377,17 @@ include( DAWN_PATH . 'head.php');
 		};
 		backToTop('#content');
 =======================================================
+以上js会自动生成如下html，所以不能在html中再重复写一份：
+    <div class="backToTop ie6png" style="display: none;" title="返回顶部">
+        <a class="backToTop ie6png" id="backToTop" href="javascript:void(0);" title="返回顶部"></a>
+    </div>
+
 
 >>0.3.2 修改图片 images\address\applyBio_address.jpg, 使文字和背景重合。
 
 >>0.3.3 before delete jobs page.
+删减信息之前。
+
+>>0.3.4 jobs page is OK
+
 
