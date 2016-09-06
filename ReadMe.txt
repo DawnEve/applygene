@@ -399,8 +399,8 @@ https://exmail.qq.com/login
 >>0.3.8 del some html
 登陆和注册都修改为 Invalid IP.
 
-
-
+>>0.3.9 替换favicon.ico
+http://www.favicon.cc/?
 
 
 
