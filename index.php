@@ -9,9 +9,9 @@ include( DAWN_PATH . 'head.php');
      <!-- 代码 开始 --> 
      <div class="kuzhan"> 
       <ul class="ebioservicepic"> 
-       <li style="background-image: url(./uploads/slides/ebioservice-9068c85a96.jpg);"><a href="./support/detail/605.html" target="_blank">&nbsp;</a></li> 
-       <li style="background-image: url(./uploads/slides/ebioservice-3d9bf48f3b.jpg);"><a href="./news/news/3169.html" target="_blank">&nbsp;</a></li> 
-       <li style="background-image: url(./uploads/slides/ebioservice-5a2204adb0.jpg);"><a href="./news/news/3128.html" target="_blank">&nbsp;</a></li> 
+       <li style="background-image: url(./uploads/slides/ebioservice-7a1fef5943.jpg);"><a href="./product.php" target="_blank">&nbsp;</a></li> 
+       <li style="background-image: url(./uploads/slides/ebioservice-3d9bf48f3b.jpg);"><a href="./product.php" target="_blank">&nbsp;</a></li> 
+       <li style="background-image: url(./uploads/slides/ebioservice-5a2204adb0.jpg);"><a href="./product.php" target="_blank">&nbsp;</a></li> 
 
       </ul> 
       <a class="prev" href="javascript:void(0)"></a> 

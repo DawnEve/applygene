@@ -87,7 +87,7 @@ include( DAWN_PATH . 'head.php');
                                 <div class="info">表观遗传学是指在基因组DNA序列没有改变的情况下，基因的表达调控和性状发生了可遗传的变化，主要包括脱氧核糖核酸的甲基化和组蛋白修饰两类。随着高通量组学技术的不断发展，表观基因组学将成为遗传学未来的研究热点之一。</div></div>
                             <div class="link-list clearfix">
 						
-                                <a  title="DNA甲基化芯片服务" class="more-cs">DNA甲基化芯片服务</a>
+                          
                                 <a  title="全基因组甲基化测序" class="more-cs">全基因组甲基化测序</a>
                         </li>
 						
@@ -102,7 +102,7 @@ include( DAWN_PATH . 'head.php');
                                     <a title="生物信息学研究服务">
                                         <img src="/uploads/product/ebioservice-ca03777dd8.jpg" alt="生物信息学研究服务"></a>
                                 </div>
-                                <div class="info">我们组建了专业的数据处理团队对生物芯片、测序数据进行专业的数据挖掘、分析。</div></div>
+                                <div class="info">我们组建了专业的数据处理团队对测序数据进行专业的数据挖掘、分析。</div></div>
                             <div class="link-list clearfix">
 
                                 <a title="mRNA测序数据分析" class="more-cs">mRNA测序数据分析</a>
