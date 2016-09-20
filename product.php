@@ -127,7 +127,6 @@ include( DAWN_PATH . 'head.php');
                                 <div class="info">河南普利莱生物技术有限公司除自主研发了样品保存液系列产品，还代理北京普利莱基因技术有限公司部分产品。</div></div>
                             <div class="link-list clearfix">
                                 <a href="/product/259.html" title="RNAsafety组织RNA保存液" class="more-cs">RNAsafety组织RNA保存液</a>
-                                <a href="/product/267.html" title="外贸代理服务" class="more-cs">外贸代理服务</a></div>
                         </li>
 						
 						

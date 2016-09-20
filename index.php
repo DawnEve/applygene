@@ -64,7 +64,7 @@ include( DAWN_PATH . 'head.php');
          <a target="_blank" href="product.php" title="基础科研">基础科研</a>
         </div> 
         <div class="intro">
-         <a target="_blank" href="product.php" title="基础科研"><img src="/uploads/news/ebioservice-e396ff9a73.jpg" alt="基础科研" /></a>
+         <a target="_blank" href="product.php" title="基础科研"><img src="/uploads/news/applybio-e396ff9a73.jpg" alt="基础科研" /></a>
         </div> 
        </div> 
 	   
@@ -73,7 +73,7 @@ include( DAWN_PATH . 'head.php');
          <a target="_blank" href="product.php" title="药物研发">药物研发</a>
         </div> 
         <div class="intro">
-         <a target="_blank" href="product.php" title="药物研发"><img src="/uploads/news/ebioservice-245d31b173.jpg" alt="药物研发" /></a>
+         <a target="_blank" href="product.php" title="药物研发"><img src="/uploads/news/applybio-245d31b173.jpg" alt="药物研发" /></a>
         </div> 
        </div> 
 	   
@@ -82,7 +82,7 @@ include( DAWN_PATH . 'head.php');
          <a target="_blank" href="product.php" title="动植物、微生物研究">动植物、微生物研究</a>
         </div> 
         <div class="intro">
-         <a target="_blank" href="product.php" title="动植物、微生物研究"><img src="/uploads/news/ebioservice-63819e18d4.jpg" alt="动植物、微生物研究" /></a>
+         <a target="_blank" href="product.php" title="动植物、微生物研究"><img src="/uploads/news/applybio-63819e18d4.jpg" alt="动植物、微生物研究" /></a>
         </div> 
        </div> 
 	   
@@ -91,7 +91,7 @@ include( DAWN_PATH . 'head.php');
          <a target="_blank" href="product.php" title="临床医学">临床医学</a>
         </div> 
         <div class="intro">
-         <a target="_blank" href="product.php" title="临床医学"><img src="/uploads/news/ebioservice-7b787bbd77.jpg" alt="临床医学" /></a>
+         <a target="_blank" href="product.php" title="临床医学"><img src="/uploads/news/applybio-7b787bbd77.jpg" alt="临床医学" /></a>
         </div> 
        </div> 
 	   
@@ -100,7 +100,7 @@ include( DAWN_PATH . 'head.php');
          <a target="_blank" href="product.php" title="遗传与健康">遗传与健康</a>
         </div> 
         <div class="intro">
-         <a target="_blank" href="product.php" title="遗传与健康"><img src="/uploads/news/ebioservice-e52ce2dd45.jpg" alt="遗传与健康" /></a>
+         <a target="_blank" href="product.php" title="遗传与健康"><img src="/uploads/news/applybio-e52ce2dd45.jpg" alt="遗传与健康" /></a>
         </div> 
        </div> 
 	   
@@ -134,12 +134,12 @@ include( DAWN_PATH . 'head.php');
         <!--
         <div class="intro2"> 
          <div class="con img">
-          <a target="_blank" href="/product/list/12.html" title="基因组层次研究服务"><img src="/uploads/product/ebioservice-49d7135413.jpg" alt="基因组层次研究服务" /></a>
+          <a target="_blank" href="/product/list/12.html" title="基因组层次研究服务"><img src="/uploads/product/applybio-49d7135413.jpg" alt="基因组层次研究服务" /></a>
          </div> 
          <a class="ser_more" target="_blank" href="/product/list/12.html" title="基因组层次研究服务">基因组层次研究服务</a> 
         </div> 
 				<div class="intro">
-					<div class="con img"><a href="/product/list/12.html" title="基因组层次研究服务"><img src="/uploads/product/ebioservice-49d7135413.jpg" alt="基因组层次研究服务"/></a></div>
+					<div class="con img"><a href="/product/list/12.html" title="基因组层次研究服务"><img src="/uploads/product/applybio-49d7135413.jpg" alt="基因组层次研究服务"/></a></div>
 					<a class="ser_more" href="/product/list/12.html" title="基因组层次研究服务">基因组层次研究服务</a>
 				</div>
 				--> 
@@ -175,7 +175,7 @@ include( DAWN_PATH . 'head.php');
         <div class="intro"> 
          <div class="con"> 
           <div style="height: 27px;overflow: hidden;">
-           <a target="_blank" href="product.php" title="DNA甲基化芯片服务" class="ie6png">DNA甲基化芯片服务</a>
+           <a target="_blank" href="product.php" title="DNA甲基化建库服务" class="ie6png">DNA甲基化建库服务</a>
           </div> 
           <div style="height: 27px;overflow: hidden;">
            <a target="_blank" href="product.php" title="DNA甲基化序列富集测序服务" class="ie6png">DNA甲基化序列富集测序服务</a>
