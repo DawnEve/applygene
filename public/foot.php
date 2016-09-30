@@ -154,7 +154,7 @@
     <div class="footer"> 
      <div class="copyright_area clearfix"> 
       <div class="copyright_left">
-       Copyright &copy; 2016 普利莱生物 豫ICP备-备案中
+       Copyright &copy; 2016 河南普利莱生物技术有限公司 | 豫ICP备16030033号-1
       </div> 
       <div class="copyright_right"> 
        <a title="关于普利莱" href="<?php echo $site_url;?>/about.php">关于普利莱</a> 
