@@ -244,7 +244,9 @@ var _hmt = _hmt || [];
   
   //获取当前url
   var host = window.location.host;
-  if(host=='www.applybio.com'){
+  //if(host=='www.applybio.com'){
+  var test='www.applybio.com'.match(host);
+  if(test!=null){
 	hm.src = "//hm.baidu.com/hm.js?3d75ff620e8c3c7c54673ddb1539117f";//applybio.com
   }
   
