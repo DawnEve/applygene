@@ -403,4 +403,125 @@ https://exmail.qq.com/login
 http://www.favicon.cc/?
 
 
+-------------------------------------------
+欢迎使用万网主机服务
+
+本路径下各文件夹功能和权限说明：
+
+     / :             您的FTP的根目录，为避免您错误删除该路径下的内容，所以禁止写入，只可读取
+ htdocs/:            您的网站的根目录，请将您的网站文件(php, htm, html, css, js等)上传至此文件夹
+htdocs/logreport/:   访问统计报告存放目录，不占用空间，只可读取。
+  cgi-bin/:          请将您的CGI脚本（如 perl脚本）上传至此文件夹
+  myfolder/:         此文件夹中的内容不会被web用户看到，您可以临时存放一些不愿公开的内容，比如站点备份、数据库备份等
+  ftplogs/:          您的ftp访问日志存放位置，只读
+  wwwlogs/:          您的www访问日志存放位置，只读
+  backup/:           系统自动为您生成的数据库备份的存放位置，只读
+-------------------------------------------
+  
+=======================================================
+放到阿里云上了。
+
+
+>>0.4.0 开始百度统计
+
+http://tongji.baidu.com/web/6529810/overview/sole?siteId=3700391  
+usr:亲自走路
+psw:Bd16
+
+zhengdagene.com
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?237e23c007cab0dfcef75df811d01d7f";//zhengdagene.com
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+applybio.com
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?3d75ff620e8c3c7c54673ddb1539117f";//applybio.com
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+======================================================================
+
+合并两个百度统计到一个。
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?237e23c007cab0dfcef75df811d01d7f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+applybio.com
+
+<script>
+//百度统计zhengdagene.com and applybio.com
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?237e23c007cab0dfcef75df811d01d7f";//zhengdagene.com
+  var s = document.getElementsByTagName("script")[0]; 
+  
+  //获取当前url
+  var host = window.location.host;
+  if(host=='www.applybio.com'){
+	hm.src = "//hm.baidu.com/hm.js?3d75ff620e8c3c7c54673ddb1539117f";//applybio.com
+  }
+  
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+====================================
+js获取url地址
+http://www.cnblogs.com/houfeng/archive/2009/10/28/1591128.html
+<script language="javascript">
+
+//http://www.dawneve.com/test.html
+
+//获取域名
+host = window.location.host;//host=www.dawneve.com
+host2=document.domain; //host2=www.dawneve.com
+
+//获取页面完整地址
+url = window.location.href;//url=http://www.dawneve.com/test.html
+
+document.write("<br>host="+host)
+document.write("<br>host2="+host2)
+document.write("<br>url="+url)
+</script>
+==========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
