@@ -4,7 +4,6 @@ include( DAWN_PATH . 'head.php');
 ?>
 
 <style>
-
 .e-list li h1 a:hover {
     text-decoration: none;
 }
@@ -109,6 +108,8 @@ include( DAWN_PATH . 'head.php');
                                 <a title="外显子组测序分析" class="more-cs">外显子组测序分析</a>
                                 <a title="miRNA测序分析" class="more-cs">miRNA测序分析</a>
                                 <a title="RNA测序分析（无参考基因组）" class="more-cs">RNA测序分析（无参考基因组）</a>
+                                <a title="生物信息分析培训班(基础)" class="more-cs">生物信息分析培训班(基础)</a>
+                                <a title="生物信息分析培训班(高级)" class="more-cs">生物信息分析培训班(高级)</a>
                              </div>
                         </li>
 						
@@ -126,7 +127,7 @@ include( DAWN_PATH . 'head.php');
                                 </div>
                                 <div class="info">河南普利莱生物技术有限公司除自主研发了样品保存液系列产品，还代理北京普利莱基因技术有限公司部分产品。</div></div>
                             <div class="link-list clearfix">
-                                <a href="/product/259.html" title="RNAsafety组织RNA保存液" class="more-cs">RNAsafety组织RNA保存液</a>
+                                <a title="RNAsafety组织RNA保存液" class="more-cs">RNAsafety组织RNA保存液</a>
                         </li>
 						
 						
