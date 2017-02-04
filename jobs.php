@@ -27,25 +27,31 @@ include( DAWN_PATH . 'head.php');
                     <div class="job-list">
                         <ul>
 						
-	
+
+						
                             <li class="select">
                                 <div class="clearfix top-cs">
-                                    <a href="javascript:void(0);" title="生物信息部—生物信息工程师" class="title">生物信息部—生物信息工程师</a>
+                                    <a href="javascript:void(0);" title="市场推广专员" class="title">市场推广专员</a>
                                     <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
                                 </div>
                                 <div class="content">
-                                    <div class="info">工作地点：郑州 　
-                                        <br>招聘部门：生物信息部
-                                        <br>招聘人数：2人
+                                    <div class="info">工作地点：郑州、北京
+                                        <br>招聘人数：4人
+                                        <br>学历要求：大专及以上
+                                        <br>工作年限：不限
+                                        <br>每月薪资：3000-5000元
+                                        <br>职位福利：周末双休、五险一金、交通补助
+										
                                         <br>岗位职责：
-                                        <br>1. 设计、创建和维护各种生物信息分析流程；
-                                        <br>2. 相关生物信息数据的采集、整理、挖掘和利用；
-                                        <br>3. 主要方向分别为：RNAseq，DNAseq，宏基因组，芯片流程。</div>
+										<br>1、学习产品服务知识，了解市场现状，进行产品推广活动
+										<br>2、制定销售计划，完成销售任务
+										<br>3、负责客户单位的关系维护和管理</div>
                                     <div class="con">
                                         <p>岗位要求：
-                                            <br>1.熟悉NGS/microarray的基本数据分析流程，掌握常用的分析软件。
-                                            <br>2.至少熟练使用Perl，R，Python或者其他相关编程语言中的一种。
-                                            <br>3.生物相关专业，本科及以上学历。</p></div>
+                                            <br>1、医学及生物类相关专业本科及以上学历者优先
+                                            <br>2、有销售经验者优先
+                                            <br>3、具备较强的市场运作与沟通能力
+                                            <br>4、性格开朗，积极进取</p></div>
                                 </div>
                             </li>
 							
@@ -55,31 +61,103 @@ include( DAWN_PATH . 'head.php');
 							
                             <li>
                                 <div class="clearfix top-cs">
-                                    <a href="javascript:void(0);" title="产品线—技术支持（DNA测序产品线）" class="title">产品线—技术支持（DNA测序产品线）</a>
+                                    <a href="javascript:void(0);" title="市场推广经理" class="title">市场推广经理</a>
                                     <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
                                 </div>
                                 <div class="content">
-                                    <div class="info">工作地点：郑州　
-                                        <br>招聘部门：产品线
-                                        <br>招聘人数：1人
+                                    <div class="info">工作地点：郑州、北京
+                                        <br>招聘人数：2人
+                                        <br>学历要求：本科及以上
+                                        <br>工作年限：3-5年
+                                        <br>每月薪资：5000-8000元
+                                        <br>职位福利：周末双休、五险一金、交通补助
+										
                                         <br>岗位职责：
-                                        <br>1. 负责为客户提供售前和售后技术和应用支持；
-                                        <br>2. 负责为客户和销售提供产品/服务培训；
-                                        <br>3. 协同市场部进行产品线市场宣传和推广活动（宣传资料编撰、产品线宣讲/学术推广等）；
-                                        <br>4. 协同销售部做好售前的技术问题的处理和项目方案的制定。</div>
+                                        <br>1、制定市场推广策略及产品推广活动
+                                        <br>2、制定团队销售指标
+                                        <br>3、负责管理销售团队、销售人员的培训
+                                        <br>4、负责客户单位的关系维护和管理</div>
                                     <div class="con">
-                                        <p>
-                                            <strong>岗位要求：</strong></p>
-                                        <p>1. 硕士及以上学历，生物、医学、农林等相关专业；熟悉高通量组学技术或有相关课题经验者优先；
-                                            <br>2. 具有良好的人际交往和沟通能力；
-                                            <br>3. 具有良好的心理素质和表达能力；
-                                            <br>4. 具有良好的文献检索及文献总结能力；。
-                                            <br>5. 可接受出差。</p></div>
+                                        <p>岗位要求：
+                                            <br>1、医学及生物相关专业本科及以上学历
+                                            <br>2、有3年以上销售或管理工作经验者优先
+                                            <br>3、具备较强的市场运作与谈判能力
+                                            <br>4、有良好的沟通协调能力，丰富的团队管理经验
+                                            <br>5、有较强的销售策划能力及执行能力</p></div>
                                 </div>
                             </li>
 							
-
 							
+							
+							
+                           
+							
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="高通量测序研发工程师" class="title">高通量测序研发工程师</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：郑州、北京
+                                        <br>招聘人数：2人
+                                        <br>学历要求：硕士及以上
+                                        <br>工作年限：不限
+                                        <br>每月薪资：3000-5000元
+                                        <br>职位福利：周末双休、五险一金
+										
+                                        <br>岗位职责：
+                                        <br>1、 收集和分析市场和生产需求，收集新技术资料，负责公司产品立项调研
+                                        <br>2、 对新产品开发运行实验跟踪并及时改进，制定详细项目实施规划
+                                        <br>3、 完成公司研发目标，优化实验流程，挖掘生物学问题，及时沟通项目进展</div>
+                                    <div class="con">
+                                        <p>岗位要求：
+                                            <br>1、 分子生物学，遗传学，临床医学，生物信息学等相关专业，硕士以及以上学历
+                                            <br>2、 具备良好的分子生物学专业知识基础
+                                            <br>3、 具备熟练读写英文文献的能力
+                                            <br>4、 可独立的分析和解决实验过程中的问题
+                                            <br>5、 具备良好的沟通和报告整理能力
+                                            <br>6、 具备高通量测序经验或高通量测序数据处理能力者优先</p></div>
+                                </div>
+                            </li>
+							
+							
+							
+							
+                           
+							
+                            <li>
+                                <div class="clearfix top-cs">
+                                    <a href="javascript:void(0);" title="实验员" class="title">实验员</a>
+                                    <a href="javascript:void(0);" title="" class="sq i ie6png"></a>
+                                </div>
+                                <div class="content">
+                                    <div class="info">工作地点：郑州、北京
+                                        <br>招聘人数：4人
+                                        <br>学历要求：本科及以上
+                                        <br>工作年限：不限
+                                        <br>每月薪资：3000-5000元
+                                        <br>职位福利：周末双休、五险一金
+										
+                                        <br>岗位职责：
+                                        <br>1、负责整理外文文献完成研发实验操作，及时整理实验数据提供可靠资料
+                                        <br>2、负责实验室日常工作及生物试剂的研究与开发
+                                        <br>3、按时完成实验任务</div>
+                                    <div class="con">
+                                        <p>岗位要求：
+                                            <br>1. 生物学相关学科本科及以上学历
+                                            <br>2. 熟悉分子生物学、免疫学、细胞生物学等实验操作流程，具有一定的实验室工作经验
+                                            <br>3. 责任心强，能吃苦耐劳，动手能力强，工作踏实努力，有良好的沟通能力，严格认真的工作态度及团队合作意识
+                                            <br>4.有医学检验资格者优先录用</p></div>
+                                </div>
+                            </li>
+							
+							
+							
+								
+							
+							
+							
+<!--							
                             <li>
                                 <div class="clearfix top-cs">
                                     <a href="javascript:void(0);" title="产品线—生物信息工程师（RNA测序产品线）" class="title">产品线—生物信息工程师（RNA测序产品线）</a>
@@ -215,6 +293,10 @@ include( DAWN_PATH . 'head.php');
 							
 							
 
+							
+							
+ -->
+							
 							
 							
 							<!--
