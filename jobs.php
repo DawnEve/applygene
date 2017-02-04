@@ -642,7 +642,7 @@ include( DAWN_PATH . 'head.php');
                         <div class="clearfix">
                             <h3 class="box_header">联系我们</h3></div>
                         <div style="padding-top: 25px;">
-                            <div>联系人：李小姐</div>
+                            <div>联系人：李经理</div>
                             <div>电话：0371-86563661</div>
                             <div>EMAIL：
                                 <a href="mailto:hr@applybio.com">hr@applybio.com</a></div>
