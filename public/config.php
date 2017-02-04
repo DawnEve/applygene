@@ -3,7 +3,8 @@
 defined('DAWN_PATH') or define('DAWN_PATH', dirname(__file__) .'/' );
 
 //域名
-$site_url='http://www.dawneve.com';
+//$site_url='http://www.dawneve.com';
+$site_url='http://'.$_SERVER['SERVER_NAME'].'/';//string(22) "http://seq.dawneve.cc/"
 
 //echo getcwd();          //I:\xampp\htdocs\applygene
 //echo dirname(__file__); //I:\xampp\htdocs\applygene\public
