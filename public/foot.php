@@ -162,6 +162,8 @@
        <a title="服务与产品" href="<?php echo $site_url;?>/product.php">服务与产品</a> 
        <span>|</span> 
        <a title="联系我们" href="<?php echo $site_url;?>/contact.php">联系我们</a> 
+       <span>|</span> 
+       技术支持: <a href="http://mioweb.biomooc.com" target="_blank">米欧互联</a>	   
       </div> 
      </div> 
     </div> 
