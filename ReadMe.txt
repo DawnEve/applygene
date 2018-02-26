@@ -1,4 +1,7 @@
 
+storage: https://github.com/DawnEve/applygene
+
+
 >>0.1版本 上海伯豪版。
 >>0.1.2 伯豪图片。
 >>0.1.3 上海->河南
@@ -515,6 +518,7 @@ document.write("<br>url="+url)
 
 >>0.4.1 页面底部加入 miit.beian.gov.cn 
 
+>>0.4.2 在ReadMe中添加github地址。
 >>
 
 
