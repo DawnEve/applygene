@@ -513,7 +513,12 @@ document.write("<br>url="+url)
 
 
 
->>0.4.1 怎么做二级目录 http://blog.csdn.net/esther_heesch/article/details/51646614
+>>0.4.1 页面底部加入 miit.beian.gov.cn 
+
+>>
+
+
+todo 怎么做二级目录 http://blog.csdn.net/esther_heesch/article/details/51646614
 
 
 
