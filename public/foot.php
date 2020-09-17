@@ -154,7 +154,9 @@
      <div class="copyright_area clearfix"> 
       <div class="copyright_left">
        Copyright &copy; 2018 河南普利莱生物技术有限公司 | 
-	   <a href="http://www.miibeian.gov.cn/" target="_blank" class="text">豫ICP备16030033号-1<br></a>
+	   <a href="http://www.miibeian.gov.cn/" target="_blank" class="text">豫ICP备16030033号-1</a> | 
+	   <a href="about.php#certificate" target="_blank" class="text">营业执照</a>
+	   <br>
       </div> 
       <div class="copyright_right"> 
        <a title="关于普利莱" href="<?php echo $site_url;?>/about.php">关于普利莱</a> 

@@ -27,7 +27,14 @@ p span{color:#333333;}
       <div class="wpb_wrapper clearfix"> 
 
        <h3><a name='intro'></a><span style="background-color: rgb(255, 255, 255); "><span style="color:#006600;">河南普利莱生物技术有限公司（www.applybio.com）</span></span></h3>
-       <p align="center"><span style="color:#333333;"><img data-pinit="registered" src="<?php echo $site_url;?>/images/address/applyBio_address.jpg" alt="" /></span></p>
+       <p align="center"><span style="color:#333333;">
+		<img data-pinit="registered" src="<?php echo $site_url;?>/images/address/applyBio_address.jpg" alt="" />
+		
+		
+       <h3><a name='certificate'></a><span style="color:#006600;">营业执照</span></h3> 
+		<img data-pinit="registered" src="<?php echo $site_url;?>/images/10-yyzz.jpg" alt="营业执照" />
+		
+		</span></p>
   
 
        <h3><span style="color:#006600;">公司简介</span></h3> 
